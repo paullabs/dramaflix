@@ -1,0 +1,210 @@
+.row {
+  position: relative;
+  container-type: inline-size;
+  margin-bottom: var(--section-gap);
+  scroll-margin-top: 80px;
+}
+
+/* ---------- cabeçalho: título à esquerda, "Ver tudo" e setas à direita ---------- */
+.cab {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 0 var(--gutter);
+  margin-bottom: 12px;
+}
+
+.titulo {
+  min-width: 0;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: clamp(19px, 1.7vw, 26px);
+  font-weight: 750;
+  letter-spacing: -0.015em;
+}
+
+.titulo span {
+  min-width: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* figura do tema antes do nome da fileira */
+.iconeTitulo {
+  flex: none;
+  color: var(--accent);
+}
+
+.ferramentas {
+  flex: none;
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+
+.verTudo {
+  display: inline-flex;
+  align-items: center;
+  gap: 2px;
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--text-3);
+  transition: color var(--dur-fast) ease;
+}
+
+.verTudo:hover {
+  color: #fff;
+}
+
+.setas {
+  display: none;
+  gap: 8px;
+}
+
+.seta {
+  display: grid;
+  place-items: center;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  background: var(--surface-2);
+  color: #fff;
+  transition:
+    background-color var(--dur-fast) ease,
+    opacity var(--dur-fast) ease;
+}
+
+.seta:hover:not(:disabled) {
+  background: var(--surface-hover);
+}
+
+.seta:disabled {
+  opacity: 0.35;
+}
+
+@media (hover: hover) and (pointer: fine) {
+  .setas {
+    display: flex;
+  }
+}
+
+/* ---------- trilho: largura da capa calculada pela largura da fileira ---------- */
+.trilho {
+  --por: 2.15;
+  --vaos: 2;
+  --card-w: calc((100cqw - var(--gutter) - var(--vaos) * var(--card-gap)) / var(--por));
+  display: flex;
+  gap: var(--card-gap);
+  overflow-x: auto;
+  overflow-y: hidden;
+  overscroll-behavior-x: contain;
+  scroll-snap-type: x proximity;
+  scroll-padding-left: var(--gutter);
+  padding: 4px 0 6px var(--gutter);
+  scrollbar-width: none;
+}
+
+.trilho::-webkit-scrollbar {
+  display: none;
+}
+
+.trilho > li {
+  flex: none;
+  scroll-snap-align: start;
+}
+
+@container (min-width: 560px) {
+  .trilho {
+    --por: 3.2;
+    --vaos: 3;
+  }
+}
+
+@container (min-width: 820px) {
+  .trilho {
+    --por: 3.6;
+    --vaos: 3;
+  }
+}
+
+@container (min-width: 1100px) {
+  .trilho {
+    --por: 4.3;
+    --vaos: 4;
+  }
+}
+
+@container (min-width: 1500px) {
+  .trilho {
+    --por: 5.3;
+    --vaos: 5;
+  }
+}
+
+@container (min-width: 1900px) {
+  .trilho {
+    --por: 6.3;
+    --vaos: 6;
+  }
+}
+
+.fim {
+  width: max(1px, calc(var(--gutter) - var(--card-gap)));
+}
+
+/* ---------- Top 10: número grande ao lado da capa, sem sobrepor ---------- */
+.trilhoTop {
+  gap: calc(var(--card-gap) * 1.5);
+}
+
+.rankItem {
+  display: flex;
+  align-items: flex-start;
+}
+
+.numero {
+  flex: none;
+  width: calc(var(--card-w) * 0.44);
+  margin-top: calc(var(--card-w) * 0.82);
+  padding-right: 6px;
+  text-align: right;
+  font-size: calc(var(--card-w) * 0.6);
+  font-weight: 900;
+  line-height: 0.8;
+  letter-spacing: -0.06em;
+  color: var(--rank-fill);
+  -webkit-text-stroke: max(2px, calc(var(--card-w) * 0.012)) rgba(255, 255, 255, 0.9);
+  user-select: none;
+}
+
+/* ---------- entrada em cascata (fileiras abaixo da dobra) ---------- */
+.row[data-revelar="espera"] .cab,
+.row[data-revelar="espera"] .trilho > li {
+  opacity: 0;
+}
+
+.row[data-revelar="sim"] .cab {
+  animation: entrarCab 520ms var(--ease-expo) both;
+}
+
+.row[data-revelar="sim"] .trilho > li {
+  animation: entrarCapa 700ms var(--ease-expo) both;
+  animation-delay: calc(min(var(--i, 0), 7) * 55ms + 80ms);
+}
+
+@keyframes entrarCab {
+  from {
+    opacity: 0;
+    transform: translateX(-12px);
+  }
+}
+
+@keyframes entrarCapa {
+  from {
+    opacity: 0;
+    transform: translateY(22px) scale(0.97);
+  }
+}

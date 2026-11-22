@@ -1,0 +1,192 @@
+/* =====================================================================
+   TOKENS DE DESIGN — extraídos da Netflix web (medição ao vivo, 19/11/2026)
+   Uso: ponto de partida para a plataforma de dramas curtos.
+   - Valores marcados [MEDIDO] vieram de getComputedStyle / variáveis do
+     design system da Netflix ("Hawkins", prefixo --hcw-) nas páginas públicas.
+   - [REF] = estimado a partir das imagens de referência (TV / app).
+   - [CLÁSSICO] = layout de assinante conhecido até 2025, não medido hoje.
+   - Nomes são nossos (genéricos), não os da Netflix.
+   - TROQUE a cor de ação e a fonte pela identidade da nossa marca
+     (ver ESPECIFICACAO.md › "O que não copiar").
+   ===================================================================== */
+
+:root {
+  /* ---------- Tipografia ---------- */
+  /* Netflix usa "Netflix Sans" (proprietária, não licenciável).
+     Substitutas livres com o mesmo desenho grotesco: Inter, Figtree, Manrope. */
+  --font-sans: "Inter", "Helvetica Neue", "Segoe UI", Roboto, Ubuntu, sans-serif;
+  --fw-regular: 400;   /* corpo */
+  --fw-medium: 500;    /* botões, metadados, títulos de fileira */
+  --fw-bold: 700;      /* títulos */
+  --fw-black: 900;     /* título de página de gênero ("Séries") [MEDIDO] */
+
+  --fs-legal: 13px;    /* reCAPTCHA, selo de duração */
+  --fs-meta: 14px;     /* metadados, links de rodapé, botão P, legenda de capa */
+  --fs-body: 16px;     /* corpo, sinopse, inputs */
+  --fs-lead: 18px;     /* botão M, subtítulo, descrição de gênero */
+  --fs-sub: 20px;      /* subtítulo do hero da landing */
+  --fs-h3: 24px;       /* h2 da landing, FAQ, nomes de plano, CTA G */
+  --fs-h2: 32px;       /* h2 das fileiras do catálogo, h1 do login/mobile */
+  --fs-h1: 48px;       /* h1 de gênero (desktop 1280–1599) */
+  --fs-display: 56px;  /* h1 da landing (desktop) */
+  --fs-display-xl: 64px; /* h1 da landing ≥1920 */
+  --fs-rank: 100px;    /* número do Top 10 */
+
+  --lh-tight: 1.25;    /* títulos: 56/70, 64/80, 32/40 [MEDIDO] */
+  --lh-body: 1.5;      /* 16/24 [MEDIDO] */
+  --lh-meta: 1.5;      /* 14/21 [MEDIDO] */
+
+  /* ---------- Cores: superfícies ---------- */
+  --color-bg: #000000;              /* landing, login, páginas públicas [MEDIDO] */
+  --color-bg-app: #141414;          /* home do assinante [CLÁSSICO] */
+  --color-surface-modal: #161616;   /* modal de título (landing) [MEDIDO] */
+  --color-surface-skeleton: #232323;/* placeholder / animação "loading" [MEDIDO] */
+  --color-surface-card: #262626;    /* placeholder de capa [MEDIDO] */
+  --color-surface-raised: #2d2d2d;  /* item de FAQ [MEDIDO] */
+  --color-surface-hover: #414141;   /* hover do FAQ, chips de metadado [MEDIDO] */
+  --color-glass: rgba(255, 255, 255, 0.10);        /* painéis "vidro" [MEDIDO] */
+  --color-glass-border: rgba(255, 255, 255, 0.04); /* borda 2px dos painéis [MEDIDO] */
+  --color-scrim: rgba(0, 0, 0, 0.70);  /* fundo atrás do modal, pílula de navegação [MEDIDO] */
+  --color-field: rgba(22, 22, 22, 0.70);   /* inputs, botões de vídeo [MEDIDO] */
+  --color-field-border: rgba(128, 128, 128, 0.70); /* [MEDIDO] */
+  --color-hairline: rgba(128, 128, 128, 0.40);     /* borda do modal [MEDIDO] */
+
+  /* ---------- Cores: texto ---------- */
+  --color-text: #ffffff;
+  --color-text-2: rgba(255, 255, 255, 0.70);  /* secundário [MEDIDO] */
+  --color-text-3: rgba(255, 255, 255, 0.50);  /* terciário/legal [MEDIDO] */
+  --color-text-disabled: rgba(255, 255, 255, 0.40);
+  --color-rank-fill: #414141;                 /* número Top 10 (com contorno branco 4px) */
+
+  /* ---------- Cores: ação ---------- */
+  /* Vermelho de referência da Netflix — SUBSTITUIR pela cor da nossa marca */
+  --color-accent: #e50914;
+  --color-accent-hover: #c11119;
+  --color-accent-pressed: #99161d;
+  --color-accent-disabled: rgba(229, 9, 20, 0.40);
+
+  /* Botão branco ("Assistir", pílulas brancas) [MEDIDO] */
+  --color-on-light: #000000;
+  --color-light: #ffffff;
+  --color-light-hover: rgba(255, 255, 255, 0.70);
+  --color-light-pressed: rgba(255, 255, 255, 0.50);
+
+  /* Botão cinza translúcido */
+  --color-neutral: rgba(128, 128, 128, 0.40);        /* "Saiba mais", setas [MEDIDO] */
+  --color-neutral-pressed: rgba(128, 128, 128, 0.20);
+  --color-more-info: rgba(109, 109, 110, 0.70);      /* "Mais informações" no billboard [REF/CLÁSSICO] */
+
+  /* Estados [MEDIDO] */
+  --color-error: #eb3942;
+  --color-success: #2bb871;
+  --color-warning: #d89d31;
+  --color-link: #448ef4;
+  --color-link-pressed: #94c2ff;
+  --color-focus: #ffffff;
+
+  /* ---------- Gradientes [MEDIDO] ---------- */
+  /* Escurecimento do hero da landing (degradê suavizado de 13 paradas) */
+  --grad-hero-scrim: linear-gradient(7deg, rgba(0,0,0,.85) 10%, rgba(0,0,0,.847) 17.25%, rgba(0,0,0,.835) 24.5%, rgba(0,0,0,.82) 31.75%, rgba(0,0,0,.796) 39%, rgba(0,0,0,.765) 46.25%, rgba(0,0,0,.725) 53.5%, rgba(0,0,0,.686) 60.75%, rgba(0,0,0,.655) 68%, rgba(0,0,0,.63) 75.25%, rgba(0,0,0,.616) 82.5%, rgba(0,0,0,.604) 89.75%, rgba(0,0,0,.6) 97%);
+  /* Header das páginas de catálogo */
+  --grad-header: linear-gradient(to top, rgba(0,0,0,0) 0%, #000 100%);
+  /* "A curva": linha de 4px no topo de uma meia-elipse sob o hero */
+  --grad-curve-line: linear-gradient(to right, #210d16 16%, #b82869, #e50914, #b82869, #210d16 84%);
+  --grad-curve-glow: radial-gradient(50% 500% at 50% -420%, rgba(64,97,231,.4) 80%, rgba(0,0,0,.1) 100%);
+  /* Brilho vermelho de fundo do hero */
+  --grad-hero-glow: radial-gradient(11% 56% at 17% 50%, #461518 0%, transparent 100%), radial-gradient(11% 56% at 83% 50%, #461518 0%, transparent 100%);
+  /* Cartões "Mais motivos para assinar" */
+  --grad-feature-card: linear-gradient(149deg, #192247 0%, #210e17 96.86%);
+  /* Banner promocional (anúncios) */
+  --grad-promo: linear-gradient(91deg, #482566 0%, #161d52 99.51%);
+  --grad-promo-rest: linear-gradient(91deg, #261733, #151a3f);
+  /* Cartões de plano */
+  --grad-plan-1: linear-gradient(149deg, #1c4072 6.96%, #172b47 40.17%, #120c1f 73.39%);
+  --grad-plan-2: linear-gradient(149deg, #59216e 6.96%, #251743 40.17%, #120c1f 73.39%);
+  --grad-plan-3: linear-gradient(149deg, #6c1e41 6.96%, #251743 40.17%, #120c1f 73.39%);
+  /* Fundo ambiente: arte do título, borrada e quase transparente */
+  --ambient-blur: 32px;
+  --ambient-opacity: 0.15;
+  --ambient-mask: linear-gradient(#d9d9d9 78.62%, rgba(115,115,115,0) 100%);
+
+  /* ---------- Espaçamento ---------- */
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 24px;
+  --space-6: 32px;
+  --space-7: 48px;
+  --space-8: 64px;
+
+  /* Margens laterais (gutter) [MEDIDO] */
+  --gutter-mobile: 24px;       /* <600 */
+  --gutter-tablet: 32px;       /* 600–959 */
+  --gutter-desktop: 48px;      /* ≥960 (páginas de catálogo) */
+  --row-inset-desktop: 152px;  /* início das fileiras no desktop (48 + 104) */
+  --container-landing: 1216px; /* largura útil da landing em 1512 */
+  --hero-max: 1920px;
+
+  /* ---------- Raios [MEDIDO] ---------- */
+  --radius-xs: 2px;      /* foco de links */
+  --radius-sm: 4px;      /* botões retangulares, chips, inputs, selo de duração */
+  --radius-md: 8px;      /* capas do Top 10 da landing, modal, seta da landing */
+  --radius-lg: 12px;     /* capas verticais do catálogo */
+  --radius-xl: 16px;     /* painéis vidro, cards de episódio, planos, banners */
+  --radius-pill: 100px;  /* botões pílula, navegação âncora */
+  --radius-circle: 50%;
+
+  /* ---------- Sombras [MEDIDO] ---------- */
+  --shadow-modal: 0 4px 8px rgba(0, 0, 0, 0.80);
+  --shadow-floating: 8px 8px 16px rgba(0, 0, 0, 0.50);
+  --blur-glass: 12px;    /* pílula de navegação âncora */
+  --blur-feature: 30px;  /* cartões "motivos" */
+
+  /* ---------- Movimento [MEDIDO] ---------- */
+  --ease-standard: cubic-bezier(0.4, 0, 0.68, 0.06);   /* padrão / saída */
+  --ease-emphasized: cubic-bezier(0.32, 0.94, 0.6, 1); /* entrada / hover */
+  --dur-fast: 200ms;      /* hover de capa, setas */
+  --dur-base: 250ms;      /* botões, inputs, acordeão, fundo do modal */
+  --dur-fade: 400ms;      /* troca de imagem/vídeo no hero (300–400ms) */
+  --dur-modal: 533ms;     /* entrada do modal (transform) */
+  --dur-slow: 1000ms;     /* CTA flutuante entrando */
+  --card-hover-scale: 1.05;
+
+  /* ---------- Camadas (z-index) [MEDIDO] ---------- */
+  --z-sticky-cta: 3;
+  --z-header: 20;
+  --z-modal: 1000;
+  --z-toast: 1002;
+
+  /* ---------- Componentes ---------- */
+  --header-h-landing: 88px;     /* 80px <960 */
+  --header-h-catalog: 72px;     /* 56px <960 */
+  --btn-h-s: 32px;  --btn-px-s: 16px;   /* 14px/500 */
+  --btn-h-m: 48px;  --btn-px-m: 16px;   /* 18px/500 */
+  --btn-h-l: 56px;  --btn-px-l: 24px;   /* 24px/500 + chevron 24px */
+  --btn-h-pill: 48px; --btn-px-pill: 32px; /* 16px/500 */
+  --input-h: 56px;              /* 48px no mobile */
+  --icon-btn-s: 32px;
+  --icon-btn-m: 40px;
+  --row-arrow-w: 24px;          /* seta "Próximo": 24×80 pílula */
+  --row-arrow-h: 80px;
+
+  /* Capas */
+  --poster-ratio: 5 / 7;        /* capa vertical Netflix (1142×1600) */
+  --landscape-ratio: 16 / 9;    /* capa horizontal, stills, billboard */
+}
+
+/* Breakpoints do design system [MEDIDO]
+   xs < 600 | s ≥ 600 | m ≥ 960 | l ≥ 1280 | xl ≥ 1600 | xxl ≥ 1920 | xxxl ≥ 2560
+   Ex.: @media (min-width: 960px) { … } */
+
+@media (max-width: 959.98px) {
+  :root {
+    --header-h-landing: 80px;
+    --header-h-catalog: 56px;
+    --fs-display: 32px;   /* h1 da landing no mobile/tablet = 32/40 */
+    --fs-h2: 20px;        /* títulos de fileira no mobile/tablet */
+  }
+}
+@media (min-width: 1920px) {
+  :root { --fs-display: 64px; --fs-h1: 56px; }
+}

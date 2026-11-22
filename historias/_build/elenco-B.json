@@ -1,0 +1,429 @@
+{
+  "serie": "Casei com o Mendigo e Ele Era Dono do Banco",
+  "mundo": "Present-day São Paulo, Brazil (2026): an upscale mansion with a garden wedding at golden hour, the leafy public square across the street where a homeless man lives, and the glass headquarters of a private bank. Vertical short drama, Realism style.",
+  "style": "Realism",
+  "spicy": "basic",
+  "characters": {
+    "laura": {
+      "name": "Laura",
+      "description": "Proposed: Architect, only daughter of a broke textile magnate, forced into an arranged marriage to pay her father's debts; at the altar she marries the first man who walks through the gate, a homeless man.",
+      "facts": [
+        "Age: 27",
+        "Gender: woman",
+        "Ethnicity/origin: Brazilian (mixed); Skin tone: light olive; Eye colour: brown",
+        "Hair colour: dark brown; Hair length: long, past the shoulders; Hair texture: wavy; Hair styling: worn loose with a side part, soft waves swept to one side",
+        "Build: slim, with natural curves",
+        "Base outfit: ivory bias-cut satin slip wedding dress with thin straps and a straight neckline, a long ivory chiffon scarf draped around the neck and falling over one shoulder, simple ivory heeled sandals, silver teardrop earrings"
+      ],
+      "archetype": {
+        "parts": "The pure heart",
+        "looks": "simple, clean everyday or work clothes, soft or bright; something in their hands to give.",
+        "read": "The bride sold to pay her father's debt who marries a stranger rather than lose herself; the viewer loves her nerve and her kindness. Status: low. Presentation: natural."
+      }
+    },
+    "teo": {
+      "name": "Téo",
+      "description": "Proposed: The missing heir of Brazil's biggest private bank, who vanished two years ago after discovering a plot against him and lives in the square across from the Valente mansion, where people call him Barba; cultured, ironic and kind.",
+      "facts": [
+        "Age: 31",
+        "Gender: man",
+        "Ethnicity/origin: Brazilian (white); Skin tone: fair with a warm undertone; Eye colour: hazel brown",
+        "Hair colour: dark brown; Hair length: shoulder-length; Hair texture: thick and wavy; Hair styling: wild and unkempt",
+        "Facial hair: very long, full, untrimmed dark brown beard",
+        "Build: tall and lean",
+        "Base outfit: worn long brown wool overcoat with frayed cuffs and one missing button, a faded grey henley underneath, dark worn trousers, scuffed brown leather boots, black knit fingerless gloves, a vintage gold wristwatch on the left wrist (the one clue to his wealth)"
+      ],
+      "archetype": {
+        "parts": "The underdog",
+        "looks": "before the turn plain, worn or work clothes and one detail that hints at the hidden power; after the turn severe, expensive clothes.",
+        "read": "The bearded vagrant the wedding guests mock, secretly the missing heir of the country's biggest bank; the viewer waits for the reveal. Status: low_to_high. Presentation: natural."
+      }
+    },
+    "henrique": {
+      "name": "Henrique",
+      "description": "Proposed: The arranged groom, heir of a real-estate developer, arrogant and polished, who poses as the Valente family's saviour while secretly owning their debt.",
+      "facts": [
+        "Age: 35",
+        "Gender: man",
+        "Ethnicity/origin: Brazilian (white); Skin tone: fair; Eye colour: grey-blue",
+        "Hair colour: black; Hair length: short; Hair texture: straight; Hair styling: slicked back with pomade",
+        "Facial hair: clean-shaven",
+        "Build: tall and athletic",
+        "Base outfit: ivory shawl-collar dinner jacket in fine wool, crisp white pleated-front dress shirt, black silk bow tie, black tuxedo trousers with a satin side stripe, gold cufflinks, polished black patent oxford shoes, a small white rose boutonniere"
+      ],
+      "archetype": {
+        "parts": "The impostor",
+        "looks": "a too-perfect look - an innocent white or soft dress in expensive fabric and flawless hair, or a tight, bold outfit and bold makeup; nothing worn or accidental.",
+        "read": "The polished groom who poses as the family's saviour while secretly owning their debt; the viewer wants him exposed. Status: high. Presentation: staged."
+      }
+    },
+    "augusto": {
+      "name": "Augusto",
+      "description": "Proposed: Laura's father, owner of a bankrupt textile empire who keeps up appearances and owes R$300 million to the Monteiro bank; he arranged her marriage to save the company.",
+      "facts": [
+        "Age: 60",
+        "Gender: man",
+        "Ethnicity/origin: Brazilian (white); Skin tone: fair and ruddy; Eye colour: brown",
+        "Hair colour: silver grey; Hair length: short; Hair texture: straight; Hair styling: combed back",
+        "Facial hair: neat grey moustache",
+        "Build: broad and slightly heavy",
+        "Base outfit: black three-piece suit in fine wool, crisp white dress shirt, oxblood silk tie with a gold tie bar, oxblood pocket square, a heavy gold wristwatch"
+      ],
+      "archetype": {
+        "parts": "The oppressor",
+        "looks": "showy wealth or force - designer clothes, logos, gold, heavy jewellery, or the gear of brute strength - and people around them.",
+        "read": "The proud, broke patriarch who sells his daughter's hand to save his company; the viewer wants him humbled. Status: high. Presentation: showy."
+      }
+    },
+    "celeste": {
+      "name": "Dona Celeste",
+      "description": "Proposed: Téo's grandmother, the icy chairwoman of the Monteiro bank's board, who searched for her grandson for two years and decides who deserves the family name.",
+      "facts": [
+        "Age: 74",
+        "Gender: woman",
+        "Ethnicity/origin: Brazilian (white); Skin tone: fair; Eye colour: grey-blue",
+        "Hair colour: silver white; Hair length: chin-length; Hair texture: straight; Hair styling: sleek bob",
+        "Build: slim and upright",
+        "Base outfit: tailored charcoal bouclé skirt suit, ivory silk blouse, a double strand of pearls, pearl stud earrings, low black leather heels"
+      ],
+      "archetype": {
+        "parts": "The witness",
+        "looks": "the clothes of their job or place - a uniform, a suit with an earpiece, an elder's formal elegance, the ordinary clothes of a crowd.",
+        "read": "The icy matriarch of the bank who reveals who her grandson really is and judges his bride; the viewer fears her verdict. Status: mid. Presentation: functional."
+      }
+    },
+    "osvaldo": {
+      "name": "Osvaldo",
+      "description": "Proposed: The Monteiro family's veteran chauffeur, who has searched for the missing heir for two years and recognises him by his gold watch.",
+      "facts": [
+        "Age: 62",
+        "Gender: man",
+        "Ethnicity/origin: Black Brazilian; Skin tone: dark brown; Eye colour: dark brown",
+        "Hair colour: grey; Hair length: very short; Hair texture: coily; Hair styling: close-cropped",
+        "Facial hair: short neat grey beard",
+        "Build: tall and solid",
+        "Base outfit: black chauffeur suit, white dress shirt, black tie, black peaked chauffeur cap, polished black leather shoes"
+      ],
+      "archetype": {
+        "parts": "The witness",
+        "looks": "the clothes of their job or place - a uniform, a suit with an earpiece, an elder's formal elegance, the ordinary clothes of a crowd.",
+        "read": "The loyal family chauffeur who recognises the missing heir by his watch and makes the call that changes everything. Status: mid. Presentation: functional."
+      }
+    },
+    "juiz": {
+      "name": "The justice of the peace",
+      "description": "Proposed: The elderly justice of the peace hired for the Valente wedding, who marries Laura to a homeless man and is the first to notice the Monteiro surname.",
+      "facts": [
+        "Age: 66",
+        "Gender: man",
+        "Ethnicity/origin: Brazilian (white); Skin tone: fair with a rosy undertone; Eye colour: blue",
+        "Hair colour: white; Hair length: short; Hair texture: straight; Hair styling: bald on top with a neat white fringe around the sides",
+        "Facial hair: clean-shaven",
+        "Build: short and round",
+        "Base outfit: beige linen suit, white dress shirt, burgundy bow tie, brown leather shoes"
+      ],
+      "archetype": {
+        "parts": "The functional character",
+        "looks": "the clothes of their job.",
+        "read": "The flustered justice of the peace who marries the bride to a homeless man and spots a famous surname on the register. Status: mid. Presentation: functional."
+      }
+    },
+    "barbeiro": {
+      "name": "Seu Nenê",
+      "description": "Proposed: The old neighbourhood barber who shaves off Téo's beard and is the first to see a black bank card in his hand.",
+      "facts": [
+        "Age: 70",
+        "Gender: man",
+        "Ethnicity/origin: Brazilian (mixed); Skin tone: medium brown; Eye colour: brown",
+        "Hair colour: white; Hair length: short; Hair texture: curly; Hair styling: short white curls neatly trimmed",
+        "Facial hair: thick white moustache",
+        "Build: slim and slightly stooped",
+        "Base outfit: white short-sleeved barber's tunic buttoned at the side, black trousers, black leather shoes"
+      ],
+      "archetype": {
+        "parts": "The functional character",
+        "looks": "the clothes of their job.",
+        "read": "The old barber who shaves the vagrant clean and gasps at the black card he pays with. Status: low. Presentation: functional."
+      }
+    }
+  },
+  "pictures": [
+    {
+      "id": "laura_sheet",
+      "texts": [
+        "references/realism_cinematic/sheet-from-photo.txt"
+      ],
+      "input": {
+        "image": "character sheet",
+        "style": "Realism",
+        "aspectRatio": "16:9",
+        "spicy": "basic",
+        "subject": "characters.laura",
+        "images": [
+          {
+            "tag": "the attached reference image",
+            "use": "the uploaded photograph of the actress: this character's face (a real photo uploaded by the user)"
+          }
+        ],
+        "notes": [
+          "Base look: the ivory satin slip wedding dress with the long chiffon scarf she wears on the series cover; she wears it through episodes 1 and 2."
+        ]
+      }
+    },
+    {
+      "id": "teo_sheet",
+      "texts": [
+        "references/realism_cinematic/sheet-from-photo.txt"
+      ],
+      "input": {
+        "image": "character sheet",
+        "style": "Realism",
+        "aspectRatio": "16:9",
+        "spicy": "basic",
+        "subject": "characters.teo",
+        "images": [
+          {
+            "tag": "the attached reference image",
+            "use": "the uploaded photograph of the actor: this character's face (a real photo uploaded by the user)"
+          }
+        ],
+        "notes": [
+          "Base look as the homeless man on the series cover: the long beard, wild hair and worn brown overcoat; the gold wristwatch is the one detail that hints at his wealth."
+        ]
+      }
+    },
+    {
+      "id": "teo_face_edit",
+      "texts": [
+        "references/realism_cinematic/face-edit.txt"
+      ],
+      "input": {
+        "image": "edit of an approved face",
+        "style": "Realism",
+        "aspectRatio": "3:4",
+        "spicy": "basic",
+        "subject": "characters.teo",
+        "look": {
+          "label": "The president",
+          "description": "Téo after the reveal: shaved, groomed and dressed as the president of the Monteiro bank.",
+          "changes": "Clean-shaven, with the long beard completely removed, showing a strong jaw; hair cut short at the sides and neatly combed back on top.",
+          "face": "changed"
+        },
+        "images": [
+          {
+            "tag": "the attached reference image",
+            "use": "the approved face: the uploaded photograph of the actor"
+          }
+        ],
+        "notes": [
+          "Same man, same eyes, nose and skin, only shaved and with a short haircut."
+        ]
+      }
+    },
+    {
+      "id": "teo_look_presidente",
+      "texts": [
+        "references/realism_cinematic/look-sheet-from-photo.txt"
+      ],
+      "depends_on": [
+        "teo_face_edit",
+        "teo_sheet"
+      ],
+      "input": {
+        "image": "character sheet of a look",
+        "style": "Realism",
+        "aspectRatio": "16:9",
+        "spicy": "basic",
+        "subject": "characters.teo",
+        "look": {
+          "label": "The president",
+          "description": "Téo after the reveal: shaved, groomed and dressed as the president of the Monteiro bank, the underdog after the turn.",
+          "changes": "Clean-shaven with short hair neatly combed back (as in this look's own face); he now wears a charcoal three-piece suit in fine wool, a crisp white dress shirt, a dark charcoal silk tie, polished black oxford shoes, the same vintage gold wristwatch on the left wrist and a plain gold signet ring.",
+          "body": "same",
+          "face": "changed"
+        },
+        "images": [
+          {
+            "tag": "the first attached reference image",
+            "use": "this look's own face: the approved face edit, shaved with short hair"
+          },
+          {
+            "tag": "the second attached reference image",
+            "use": "the base character sheet: preserve this entity's approved identity while following the selected look"
+          }
+        ],
+        "notes": [
+          "Look for episode 3, the reveal at the bank."
+        ]
+      }
+    },
+    {
+      "id": "henrique_face",
+      "texts": [
+        "references/realism_cinematic/face.txt"
+      ],
+      "input": {
+        "image": "face",
+        "style": "Realism",
+        "aspectRatio": "3:4",
+        "spicy": "basic",
+        "subject": "characters.henrique",
+        "images": [],
+        "notes": []
+      }
+    },
+    {
+      "id": "henrique_outfit",
+      "texts": [
+        "references/realism_cinematic/outfit.txt"
+      ],
+      "input": {
+        "image": "outfit",
+        "style": "Realism",
+        "aspectRatio": "3:4",
+        "spicy": "basic",
+        "subject": "characters.henrique",
+        "images": [],
+        "notes": []
+      }
+    },
+    {
+      "id": "henrique_sheet",
+      "texts": [
+        "references/realism_cinematic/sheet.txt",
+        "references/sections/face-own-words.txt"
+      ],
+      "input": {
+        "image": "character sheet",
+        "style": "Realism",
+        "aspectRatio": "16:9",
+        "spicy": "basic",
+        "subject": "characters.henrique",
+        "images": [
+          {
+            "tag": "the first attached reference image",
+            "use": "the approved face"
+          },
+          {
+            "tag": "the second attached reference image",
+            "use": "the outfit flat-lay"
+          }
+        ],
+        "face": "<the prompt you wrote for henrique_face, plus its notes>",
+        "notes": []
+      }
+    },
+    {
+      "id": "augusto_face",
+      "texts": [
+        "references/realism_cinematic/face.txt"
+      ],
+      "input": {
+        "image": "face",
+        "style": "Realism",
+        "aspectRatio": "3:4",
+        "spicy": "basic",
+        "subject": "characters.augusto",
+        "images": [],
+        "notes": []
+      }
+    },
+    {
+      "id": "augusto_outfit",
+      "texts": [
+        "references/realism_cinematic/outfit.txt"
+      ],
+      "input": {
+        "image": "outfit",
+        "style": "Realism",
+        "aspectRatio": "3:4",
+        "spicy": "basic",
+        "subject": "characters.augusto",
+        "images": [],
+        "notes": []
+      }
+    },
+    {
+      "id": "augusto_sheet",
+      "texts": [
+        "references/realism_cinematic/sheet.txt",
+        "references/sections/face-own-words.txt"
+      ],
+      "input": {
+        "image": "character sheet",
+        "style": "Realism",
+        "aspectRatio": "16:9",
+        "spicy": "basic",
+        "subject": "characters.augusto",
+        "images": [
+          {
+            "tag": "the first attached reference image",
+            "use": "the approved face"
+          },
+          {
+            "tag": "the second attached reference image",
+            "use": "the outfit flat-lay"
+          }
+        ],
+        "face": "<the prompt you wrote for augusto_face, plus its notes>",
+        "notes": []
+      }
+    },
+    {
+      "id": "celeste_face",
+      "texts": [
+        "references/realism_cinematic/face.txt"
+      ],
+      "input": {
+        "image": "face",
+        "style": "Realism",
+        "aspectRatio": "3:4",
+        "spicy": "basic",
+        "subject": "characters.celeste",
+        "images": [],
+        "notes": []
+      }
+    },
+    {
+      "id": "celeste_outfit",
+      "texts": [
+        "references/realism_cinematic/outfit.txt"
+      ],
+      "input": {
+        "image": "outfit",
+        "style": "Realism",
+        "aspectRatio": "3:4",
+        "spicy": "basic",
+        "subject": "characters.celeste",
+        "images": [],
+        "notes": []
+      }
+    },
+    {
+      "id": "celeste_sheet",
+      "texts": [
+        "references/realism_cinematic/sheet.txt",
+        "references/sections/face-own-words.txt"
+      ],
+      "input": {
+        "image": "character sheet",
+        "style": "Realism",
+        "aspectRatio": "16:9",
+        "spicy": "basic",
+        "subject": "characters.celeste",
+        "images": [
+          {
+            "tag": "the first attached reference image",
+            "use": "the approved face"
+          },
+          {
+            "tag": "the second attached reference image",
+            "use": "the outfit flat-lay"
+          }
+        ],
+        "face": "<the prompt you wrote for celeste_face, plus its notes>",
+        "notes": []
+      }
+    }
+  ]
+}

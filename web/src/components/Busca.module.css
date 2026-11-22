@@ -1,0 +1,75 @@
+.campo {
+  margin-top: 4px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  height: 56px;
+  padding: 0 16px;
+  border-radius: var(--r-lg);
+  background: var(--surface-1);
+  box-shadow: inset 0 0 0 1.5px rgba(255, 255, 255, 0.14);
+  color: var(--text-3);
+  transition: box-shadow var(--dur-fast) ease;
+}
+
+.campo:focus-within {
+  box-shadow: inset 0 0 0 2px #fff;
+  color: #fff;
+}
+
+.campo input {
+  flex: 1;
+  min-width: 0;
+  height: 100%;
+  border: 0;
+  outline: none;
+  background: transparent;
+  font-size: 17px;
+  color: #fff;
+}
+
+.campo input::placeholder {
+  color: var(--text-4);
+}
+
+.campo input::-webkit-search-cancel-button {
+  display: none;
+}
+
+.limpar {
+  display: grid;
+  place-items: center;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  background: var(--surface-3);
+  color: #fff;
+}
+
+.chips {
+  margin: 16px calc(-1 * var(--gutter)) 28px;
+  padding: 0 var(--gutter);
+}
+
+.resumo {
+  margin-bottom: 18px;
+  font-size: 15px;
+  color: var(--text-3);
+}
+
+.resumo strong {
+  color: #fff;
+}
+
+.subtitulo {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 16px;
+  font-size: 20px;
+  font-weight: 750;
+}
+
+.subtitulo svg {
+  color: var(--accent);
+}

@@ -1,0 +1,11 @@
+/* fileiras sempre abaixo do destaque, com respiro — nada por cima de nada */
+.fileiras {
+  position: relative;
+  margin-top: 28px;
+}
+
+@media (min-width: 960px) {
+  .fileiras {
+    margin-top: 8px;
+  }
+}

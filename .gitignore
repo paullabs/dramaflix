@@ -1,0 +1,21 @@
+# dependências e builds
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+next-env.d.ts
+
+# originais em alta das capas (385 MB): ficam fora do git.
+# Para baixar de novo: python3 capas/_scripts/restaurar_capas.py
+capas/**/*.png
+capas/**/*.jpg
+
+# historias: imagens baixadas e saídas do gerador de PDF
+historias/*/assets/
+historias/_build/web/
+historias/_refs/
+
+# sistema e segredos
+.DS_Store
+.env*
+*.pem

@@ -1,0 +1,485 @@
+{
+  "atualizado_em": "2026-11-19",
+  "como_usar": {
+    "capa": "Capa vertical 3:4 (1536x2048) já com o título aplicado. Use nos cards das fileiras e na busca.",
+    "capa_web": "A mesma capa em 600x800 JPG, leve, para os cards.",
+    "fundo": "Foto realista SEM texto (3:4, 1536x2048). Use como fundo do billboard/hero e da página do título; recorte para 16:9 pelo terço de cima quando precisar.",
+    "logo_titulo": "Título-logo em PNG transparente. Sobreponha no billboard/hero e na página do título (modelo Netflix: arte sem texto + logo separado).",
+    "selos": "Selos ('Exclusivo', 'Novo', 'Top 10', 'Dublado') e o contador '▶ N Episódios' entram pela interface, nunca na arte. Os ~12% de baixo de cada capa são uma faixa escura reservada para o contador.",
+    "v1": "capas/v1/ é a primeira versão (arquivada, não usar).",
+    "banner": "Banner 16:9 SEM texto (web: 1920x1084 JPG; original: 2720x1536 PNG) com os mesmos atores da capa: protagonista no terço direito, lado esquerdo livre para logo, sinopse e botões. Use no billboard/hero da home e no topo da página do título. Aplique por CSS o degradê da esquerda e o fade inferior para a cor da página e sobreponha o logo_titulo.",
+    "banner_com_logo": "Prévia do billboard já com degradês e logo — referência visual ou peça para redes/anúncios.",
+    "mobile": "No celular, o hero usa o 'fundo' (3:4) com o logo_titulo por cima, ou a própria 'capa'.",
+    "gancho": "Uma frase curta (até ~55 caracteres) para o destaque e o feed; a sinopse completa fica nos detalhes."
+  },
+  "titulos": [
+    {
+      "id": "ele-me-trocou",
+      "numero": 1,
+      "titulo": "Ele Me Trocou. Eu Comprei a Empresa Dele.",
+      "genero": "Vingança",
+      "tags": [
+        "vingança",
+        "divórcio",
+        "virada de poder",
+        "ex arrependido"
+      ],
+      "sinopse": "Depois de 7 anos bancando o marido, Helena é trocada pela estagiária no aniversário de casamento. Ela some por um ano e volta como a investidora que acabou de comprar a empresa dele — e agora ele precisa da assinatura dela para não falir.",
+      "episodios": 64,
+      "dublado": false,
+      "lote": "v2",
+      "arquivos": {
+        "capa": "capas/v2/01-ele-me-trocou.png",
+        "capa_web": "capas/v2/web/01-ele-me-trocou.jpg",
+        "fundo": "capas/v2/fotos/01b.png",
+        "logo_titulo": "capas/v2/titulos/01.png",
+        "banner": "capas/banners/web/01-ele-me-trocou.jpg",
+        "banner_original": "capas/banners/01-ele-me-trocou.png",
+        "banner_com_logo": "capas/banners/com-logo/01-ele-me-trocou.jpg"
+      },
+      "gancho": "Trocada pela estagiária. Voltou dona da empresa dele."
+    },
+    {
+      "id": "o-genro-humilhado",
+      "numero": 2,
+      "titulo": "O Genro Humilhado Era o Dono de Tudo",
+      "genero": "Ação · identidade secreta",
+      "tags": [
+        "identidade secreta",
+        "genro humilhado",
+        "bilionário",
+        "virada"
+      ],
+      "sinopse": "Há três anos Lucas aguenta calado as humilhações da família rica da esposa. Na festa de aniversário da sogra, os seguranças de um grupo bilionário entram procurando o \"presidente\". É ele — e acabou o tempo de ficar quieto.",
+      "episodios": 80,
+      "dublado": false,
+      "lote": "v2",
+      "arquivos": {
+        "capa": "capas/v2/02-o-genro-humilhado.png",
+        "capa_web": "capas/v2/web/02-o-genro-humilhado.jpg",
+        "fundo": "capas/v2/fotos/02a.png",
+        "logo_titulo": "capas/v2/titulos/02.png",
+        "banner": "capas/banners/web/02-o-genro-humilhado.jpg",
+        "banner_original": "capas/banners/02-o-genro-humilhado.png",
+        "banner_com_logo": "capas/banners/com-logo/02-o-genro-humilhado.jpg"
+      },
+      "gancho": "Humilhado pela família da esposa. Ele é o presidente."
+    },
+    {
+      "id": "a-segunda-familia-do-meu-marido",
+      "numero": 3,
+      "titulo": "A Segunda Família do Meu Marido",
+      "genero": "Suspense",
+      "tags": [
+        "traição",
+        "segredo de família",
+        "suspense",
+        "investigação"
+      ],
+      "sinopse": "Marina encontra um segundo celular na gaveta do marido. Numa noite, ela o segue e vê, pela janela de outra casa, o homem que ama abraçando outra mulher e uma filha de 6 anos. O que ela descobre depois é muito pior que uma traição.",
+      "episodios": 52,
+      "dublado": false,
+      "lote": "v2",
+      "arquivos": {
+        "capa": "capas/v2/03-a-segunda-familia-do-meu-marido.png",
+        "capa_web": "capas/v2/web/03-a-segunda-familia-do-meu-marido.jpg",
+        "fundo": "capas/v2/fotos/03a.png",
+        "logo_titulo": "capas/v2/titulos/03.png",
+        "banner": "capas/banners/web/03-a-segunda-familia-do-meu-marido.jpg",
+        "banner_original": "capas/banners/03-a-segunda-familia-do-meu-marido.png",
+        "banner_com_logo": "capas/banners/com-logo/03-a-segunda-familia-do-meu-marido.jpg"
+      },
+      "gancho": "Um segundo celular. Uma segunda família."
+    },
+    {
+      "id": "nao-atenda-depois-da-meia-noite",
+      "numero": 4,
+      "titulo": "Não Atenda Depois da Meia-Noite",
+      "genero": "Terror",
+      "tags": [
+        "terror",
+        "sobrenatural",
+        "desaparecimento",
+        "mistério"
+      ],
+      "sinopse": "Um ano depois do desaparecimento da irmã, Bia começa a receber ligações do número dela — sempre às 00h00. Cada vez que atende, alguém da cidade some. A voz do outro lado diz que só vai parar quando ela for buscá-la.",
+      "episodios": 40,
+      "dublado": false,
+      "lote": "v2",
+      "arquivos": {
+        "capa": "capas/v2/04-nao-atenda-depois-da-meia-noite.png",
+        "capa_web": "capas/v2/web/04-nao-atenda-depois-da-meia-noite.jpg",
+        "fundo": "capas/v2/fotos/04a.png",
+        "logo_titulo": "capas/v2/titulos/04.png",
+        "banner": "capas/banners/web/04-nao-atenda-depois-da-meia-noite.jpg",
+        "banner_original": "capas/banners/04-nao-atenda-depois-da-meia-noite.png",
+        "banner_com_logo": "capas/banners/com-logo/04-nao-atenda-depois-da-meia-noite.jpg"
+      },
+      "gancho": "A irmã sumiu. Agora ela liga à meia-noite."
+    },
+    {
+      "id": "troquei-de-corpo-com-a-minha-sogra",
+      "numero": 5,
+      "titulo": "Troquei de Corpo com a Minha Sogra",
+      "genero": "Comédia",
+      "tags": [
+        "comédia",
+        "troca de corpos",
+        "sogra",
+        "família"
+      ],
+      "sinopse": "Clara e a sogra, dona Lourdes, se odeiam. Depois de uma briga no aniversário da família e um raio, as duas acordam uma no corpo da outra — e precisam fingir que nada aconteceu.",
+      "episodios": 60,
+      "dublado": false,
+      "lote": "v2",
+      "arquivos": {
+        "capa": "capas/v2/05-troquei-de-corpo-com-a-minha-sogra.png",
+        "capa_web": "capas/v2/web/05-troquei-de-corpo-com-a-minha-sogra.jpg",
+        "fundo": "capas/v2/fotos/05a.png",
+        "logo_titulo": "capas/v2/titulos/05.png",
+        "banner": "capas/banners/web/05-troquei-de-corpo-com-a-minha-sogra.jpg",
+        "banner_original": "capas/banners/05-troquei-de-corpo-com-a-minha-sogra.png",
+        "banner_com_logo": "capas/banners/com-logo/05-troquei-de-corpo-com-a-minha-sogra.jpg"
+      },
+      "gancho": "Nora e sogra acordam uma no corpo da outra."
+    },
+    {
+      "id": "a-delegada-que-prendeu-o-proprio-pai",
+      "numero": 6,
+      "titulo": "A Delegada Que Prendeu o Próprio Pai",
+      "genero": "Policial",
+      "tags": [
+        "policial",
+        "crime",
+        "família",
+        "dilema moral"
+      ],
+      "sinopse": "A delegada Renata investiga uma rede de lavagem de dinheiro no porto de Santos. Todas as provas apontam para o empresário mais respeitado da cidade: o pai dela.",
+      "episodios": 58,
+      "dublado": false,
+      "lote": "v2",
+      "arquivos": {
+        "capa": "capas/v2/06-a-delegada-que-prendeu-o-proprio-pai.png",
+        "capa_web": "capas/v2/web/06-a-delegada-que-prendeu-o-proprio-pai.jpg",
+        "fundo": "capas/v2/fotos/06a.png",
+        "logo_titulo": "capas/v2/titulos/06.png",
+        "banner": "capas/banners/web/06-a-delegada-que-prendeu-o-proprio-pai.jpg",
+        "banner_original": "capas/banners/06-a-delegada-que-prendeu-o-proprio-pai.png",
+        "banner_com_logo": "capas/banners/com-logo/06-a-delegada-que-prendeu-o-proprio-pai.jpg"
+      },
+      "gancho": "Todas as provas apontam para o pai dela."
+    },
+    {
+      "id": "rejeitada-pelo-alfa",
+      "numero": 7,
+      "titulo": "Rejeitada Pelo Alfa, Escolhida Pela Lua",
+      "genero": "Fantasia · lobisomem",
+      "tags": [
+        "lobisomem",
+        "companheira rejeitada",
+        "triângulo",
+        "poder oculto"
+      ],
+      "sinopse": "Na noite do vínculo, o Alfa Kael rejeita Maya diante de toda a matilha. Mas ela é a primeira loba branca em 300 anos — e o líder da matilha rival fará de tudo para tê-la ao seu lado.",
+      "episodios": 80,
+      "dublado": false,
+      "lote": "v2",
+      "arquivos": {
+        "capa": "capas/v2/07-rejeitada-pelo-alfa.png",
+        "capa_web": "capas/v2/web/07-rejeitada-pelo-alfa.jpg",
+        "fundo": "capas/v2/fotos/07a.png",
+        "logo_titulo": "capas/v2/titulos/07.png",
+        "banner": "capas/banners/web/07-rejeitada-pelo-alfa.jpg",
+        "banner_original": "capas/banners/07-rejeitada-pelo-alfa.png",
+        "banner_com_logo": "capas/banners/com-logo/07-rejeitada-pelo-alfa.jpg"
+      },
+      "gancho": "Rejeitada pelo Alfa. Agora todos a querem."
+    },
+    {
+      "id": "a-concubina-que-renasceu",
+      "numero": 8,
+      "titulo": "A Concubina Que Renasceu Para Reinar",
+      "genero": "Época asiática",
+      "tags": [
+        "renascimento",
+        "palácio",
+        "vingança",
+        "dublado"
+      ],
+      "sinopse": "Envenenada pela imperatriz no dia da coroação, Lian acorda dez anos no passado. Desta vez ela conhece cada traição do palácio — e o imperador frio vai descobrir que a concubina esquecida virou a jogadora mais perigosa da corte.",
+      "episodios": 90,
+      "dublado": true,
+      "lote": "v2",
+      "arquivos": {
+        "capa": "capas/v2/08-a-concubina-que-renasceu.png",
+        "capa_web": "capas/v2/web/08-a-concubina-que-renasceu.jpg",
+        "fundo": "capas/v2/fotos/08a.png",
+        "logo_titulo": "capas/v2/titulos/08.png",
+        "banner": "capas/banners/web/08-a-concubina-que-renasceu.jpg",
+        "banner_original": "capas/banners/08-a-concubina-que-renasceu.png",
+        "banner_com_logo": "capas/banners/com-logo/08-a-concubina-que-renasceu.jpg"
+      },
+      "gancho": "Envenenada, ela volta dez anos no tempo."
+    },
+    {
+      "id": "fingi-namorar-meu-pior-inimigo",
+      "numero": 9,
+      "titulo": "Fingi Namorar Meu Pior Inimigo",
+      "genero": "Jovem · universitário",
+      "tags": [
+        "namoro falso",
+        "faculdade",
+        "do ódio ao amor",
+        "comédia romântica"
+      ],
+      "sinopse": "Para fazer ciúme no ex, Júlia propõe um namoro de mentira a Theo, o cara que ela mais detesta na faculdade. Três regras: sem beijo, sem sentimentos, sem contar para ninguém. Em uma semana, as três já foram quebradas.",
+      "episodios": 62,
+      "dublado": false,
+      "lote": "v2",
+      "arquivos": {
+        "capa": "capas/v2/09-fingi-namorar-meu-pior-inimigo.png",
+        "capa_web": "capas/v2/web/09-fingi-namorar-meu-pior-inimigo.jpg",
+        "fundo": "capas/v2/fotos/09c.png",
+        "logo_titulo": "capas/v2/titulos/09.png",
+        "banner": "capas/banners/web/09-fingi-namorar-meu-pior-inimigo.jpg",
+        "banner_original": "capas/banners/09-fingi-namorar-meu-pior-inimigo.png",
+        "banner_com_logo": "capas/banners/com-logo/09-fingi-namorar-meu-pior-inimigo.jpg"
+      },
+      "gancho": "Namoro de mentira. Três regras. Todas quebradas."
+    },
+    {
+      "id": "ganhei-na-mega-sena",
+      "numero": 10,
+      "titulo": "Ganhei na Mega-Sena e Fingi Que Era Pobre",
+      "genero": "Comédia · Mega-Sena",
+      "tags": [
+        "sorte grande",
+        "família interesseira",
+        "comédia",
+        "segredo"
+      ],
+      "sinopse": "Dani acerta as seis dezenas sozinha e decide não contar para ninguém: quer descobrir quem a ama de verdade — o marido folgado, a sogra que a chama de \"encosto\" ou o vizinho tímido. O prêmio vence em 90 dias, e a família começa a desconfiar.",
+      "episodios": 70,
+      "dublado": false,
+      "lote": "v3",
+      "arquivos": {
+        "capa": "capas/v3/10-ganhei-na-mega-sena.png",
+        "capa_web": "capas/v3/web/10-ganhei-na-mega-sena.jpg",
+        "fundo": "capas/v3/fotos/10a.png",
+        "logo_titulo": "capas/v3/titulos/10.png",
+        "banner": "capas/banners/web/10-ganhei-na-mega-sena.jpg",
+        "banner_original": "capas/banners/10-ganhei-na-mega-sena.png",
+        "banner_com_logo": "capas/banners/com-logo/10-ganhei-na-mega-sena.jpg"
+      },
+      "gancho": "Ganhou na Mega-Sena. Ninguém pode saber."
+    },
+    {
+      "id": "o-motoboy-que-eu-humilhei",
+      "numero": 11,
+      "titulo": "O Motoboy Que Eu Humilhei Era Bilionário",
+      "genero": "Bilionário disfarçado",
+      "tags": [
+        "bilionário",
+        "identidade secreta",
+        "humilhação e virada",
+        "romance"
+      ],
+      "sinopse": "Na porta do prédio mais caro da Faria Lima, a influenciadora Bárbara humilha o motoboy na frente de todo mundo. No dia seguinte, a empresa dela é comprada — e o novo dono chega à reunião de capacete na mão.",
+      "episodios": 72,
+      "dublado": false,
+      "lote": "v3",
+      "arquivos": {
+        "capa": "capas/v3/11-o-motoboy-que-eu-humilhei.png",
+        "capa_web": "capas/v3/web/11-o-motoboy-que-eu-humilhei.jpg",
+        "fundo": "capas/v3/fotos/11a.png",
+        "logo_titulo": "capas/v3/titulos/11.png",
+        "banner": "capas/banners/web/11-o-motoboy-que-eu-humilhei.jpg",
+        "banner_original": "capas/banners/11-o-motoboy-que-eu-humilhei.png",
+        "banner_com_logo": "capas/banners/com-logo/11-o-motoboy-que-eu-humilhei.jpg"
+      },
+      "gancho": "Ela humilhou o motoboy. Ele comprou a empresa dela."
+    },
+    {
+      "id": "casei-com-o-mendigo",
+      "numero": 12,
+      "titulo": "Casei com o Mendigo e Ele Era Dono do Banco",
+      "genero": "Casamento por impulso",
+      "tags": [
+        "casamento por impulso",
+        "bilionário",
+        "identidade secreta",
+        "romance"
+      ],
+      "sinopse": "Para fugir do casamento arranjado pelo pai, Laura pede em casamento o primeiro homem que vê na praça: um morador de rua de barba enorme. Ele é o herdeiro do maior banco do país — e o pai dela deve uma fortuna a esse banco.",
+      "episodios": 68,
+      "dublado": false,
+      "lote": "v3",
+      "arquivos": {
+        "capa": "capas/v3/12-casei-com-o-mendigo.png",
+        "capa_web": "capas/v3/web/12-casei-com-o-mendigo.jpg",
+        "fundo": "capas/v3/fotos/12a.png",
+        "logo_titulo": "capas/v3/titulos/12.png",
+        "banner": "capas/banners/web/12-casei-com-o-mendigo.jpg",
+        "banner_original": "capas/banners/12-casei-com-o-mendigo.png",
+        "banner_com_logo": "capas/banners/com-logo/12-casei-com-o-mendigo.jpg"
+      },
+      "gancho": "Casou com um mendigo. Ele é dono do banco."
+    },
+    {
+      "id": "a-faxineira-herdou-80-bilhoes",
+      "numero": 13,
+      "titulo": "A Faxineira Herdou 80 Bilhões do Patrão",
+      "genero": "Herança",
+      "tags": [
+        "herança",
+        "família rica",
+        "humilhação e virada",
+        "dinheiro"
+      ],
+      "sinopse": "Durante 15 anos, Rose cuidou do velho Augusto sem pedir nada. No testamento, ele deixa a fortuna inteira para ela — e os filhos dele juram tirar até o último centavo.",
+      "episodios": 75,
+      "dublado": false,
+      "lote": "v3",
+      "arquivos": {
+        "capa": "capas/v3/13-a-faxineira-herdou-80-bilhoes.png",
+        "capa_web": "capas/v3/web/13-a-faxineira-herdou-80-bilhoes.jpg",
+        "fundo": "capas/v3/fotos/13a.png",
+        "logo_titulo": "capas/v3/titulos/13.png",
+        "banner": "capas/banners/web/13-a-faxineira-herdou-80-bilhoes.jpg",
+        "banner_original": "capas/banners/13-a-faxineira-herdou-80-bilhoes.png",
+        "banner_com_logo": "capas/banners/com-logo/13-a-faxineira-herdou-80-bilhoes.jpg"
+      },
+      "gancho": "A faxineira herdou tudo. Os filhos querem de volta."
+    },
+    {
+      "id": "gravida-de-trigemeos",
+      "numero": 14,
+      "titulo": "Grávida de Trigêmeos do Bilionário Que Me Demitiu",
+      "genero": "Bebê do CEO",
+      "tags": [
+        "bebê secreto",
+        "CEO",
+        "segunda chance",
+        "romance"
+      ],
+      "sinopse": "Dias depois de ser demitida por mensagem, Bruna descobre que está grávida — de trigêmeos — do chefe com quem passou uma única noite. Quando volta para contar, ele está noivo da filha do sócio.",
+      "episodios": 66,
+      "dublado": false,
+      "lote": "v3",
+      "arquivos": {
+        "capa": "capas/v3/14-gravida-de-trigemeos.png",
+        "capa_web": "capas/v3/web/14-gravida-de-trigemeos.jpg",
+        "fundo": "capas/v3/fotos/14a.png",
+        "logo_titulo": "capas/v3/titulos/14.png",
+        "banner": "capas/banners/web/14-gravida-de-trigemeos.jpg",
+        "banner_original": "capas/banners/14-gravida-de-trigemeos.png",
+        "banner_com_logo": "capas/banners/com-logo/14-gravida-de-trigemeos.jpg"
+      },
+      "gancho": "Demitida e grávida de trigêmeos do chefe."
+    },
+    {
+      "id": "ajudei-um-velhinho-e-ganhei-uma-ilha",
+      "numero": 15,
+      "titulo": "Ajudei um Velhinho na Rua e Ganhei uma Ilha",
+      "genero": "Comédia de sorte",
+      "tags": [
+        "sorte",
+        "herança",
+        "comédia",
+        "romance"
+      ],
+      "sinopse": "Mel ajuda um senhor perdido na Paulista a voltar para casa. Uma semana depois, um advogado aparece com a escritura de uma ilha em Angra — e com o neto mal-humorado que jura que é golpe.",
+      "episodios": 55,
+      "dublado": false,
+      "lote": "v3",
+      "arquivos": {
+        "capa": "capas/v3/15-ajudei-um-velhinho-e-ganhei-uma-ilha.png",
+        "capa_web": "capas/v3/web/15-ajudei-um-velhinho-e-ganhei-uma-ilha.jpg",
+        "fundo": "capas/v3/fotos/15a.png",
+        "logo_titulo": "capas/v3/titulos/15.png",
+        "banner": "capas/banners/web/15-ajudei-um-velhinho-e-ganhei-uma-ilha.jpg",
+        "banner_original": "capas/banners/15-ajudei-um-velhinho-e-ganhei-uma-ilha.png",
+        "banner_com_logo": "capas/banners/com-logo/15-ajudei-um-velhinho-e-ganhei-uma-ilha.jpg"
+      },
+      "gancho": "Ajudou um velhinho. Ganhou uma ilha."
+    },
+    {
+      "id": "largada-no-altar",
+      "numero": 16,
+      "titulo": "Largada no Altar, Casei com o Garçom Bilionário",
+      "genero": "Noiva abandonada",
+      "tags": [
+        "noiva abandonada",
+        "casamento por impulso",
+        "bilionário",
+        "romance"
+      ],
+      "sinopse": "O noivo foge com a madrinha no meio da cerimônia. Com a igreja cheia, Carol puxa o garçom pela gravata e casa com ele ali mesmo. Na manhã seguinte, o \"garçom\" vem buscá-la de helicóptero.",
+      "episodios": 64,
+      "dublado": false,
+      "lote": "v3",
+      "arquivos": {
+        "capa": "capas/v3/16-largada-no-altar.png",
+        "capa_web": "capas/v3/web/16-largada-no-altar.jpg",
+        "fundo": "capas/v3/fotos/16a.png",
+        "logo_titulo": "capas/v3/titulos/16.png",
+        "banner": "capas/banners/web/16-largada-no-altar.jpg",
+        "banner_original": "capas/banners/16-largada-no-altar.png",
+        "banner_com_logo": "capas/banners/com-logo/16-largada-no-altar.jpg"
+      },
+      "gancho": "Largada no altar, casou com o garçom bilionário."
+    },
+    {
+      "id": "minha-sogra-me-expulsou",
+      "numero": 17,
+      "titulo": "Minha Sogra Me Expulsou. Eu Sou a Dona do Condomínio.",
+      "genero": "Vingança familiar",
+      "tags": [
+        "sogra",
+        "vingança",
+        "virada de poder",
+        "família"
+      ],
+      "sinopse": "Dona Neide põe as malas da nora na calçada na frente de todos os vizinhos. Só não sabe que o condomínio de luxo onde ela mora inteiro pertence à empresa que a nora fundou em segredo.",
+      "episodios": 60,
+      "dublado": false,
+      "lote": "v3",
+      "arquivos": {
+        "capa": "capas/v3/17-minha-sogra-me-expulsou.png",
+        "capa_web": "capas/v3/web/17-minha-sogra-me-expulsou.jpg",
+        "fundo": "capas/v3/fotos/17a.png",
+        "logo_titulo": "capas/v3/titulos/17.png",
+        "banner": "capas/banners/web/17-minha-sogra-me-expulsou.jpg",
+        "banner_original": "capas/banners/17-minha-sogra-me-expulsou.png",
+        "banner_com_logo": "capas/banners/com-logo/17-minha-sogra-me-expulsou.jpg"
+      },
+      "gancho": "A sogra a expulsou. O condomínio é dela."
+    },
+    {
+      "id": "o-cachorro-herdou-tudo",
+      "numero": 18,
+      "titulo": "O Cachorro Herdou Tudo e Eu Virei Secretária Dele",
+      "genero": "Comédia absurda",
+      "tags": [
+        "herança",
+        "comédia",
+        "família rica",
+        "pet"
+      ],
+      "sinopse": "O magnata excêntrico deixa 3 bilhões para Duque, seu samoieda — e só a passeadora, Ana, pode administrar a fortuna em nome dele. Agora a família inteira tem que pedir dinheiro para ela.",
+      "episodios": 50,
+      "dublado": false,
+      "lote": "v3",
+      "arquivos": {
+        "capa": "capas/v3/18-o-cachorro-herdou-tudo.png",
+        "capa_web": "capas/v3/web/18-o-cachorro-herdou-tudo.jpg",
+        "fundo": "capas/v3/fotos/18b.png",
+        "logo_titulo": "capas/v3/titulos/18.png",
+        "banner": "capas/banners/web/18-o-cachorro-herdou-tudo.jpg",
+        "banner_original": "capas/banners/18-o-cachorro-herdou-tudo.png",
+        "banner_com_logo": "capas/banners/com-logo/18-o-cachorro-herdou-tudo.jpg"
+      },
+      "gancho": "O cachorro herdou 3 bilhões. Ela cuida do dinheiro."
+    }
+  ]
+}

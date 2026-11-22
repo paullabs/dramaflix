@@ -1,0 +1,416 @@
+[
+  {
+    "numero": 1,
+    "id": "ele-me-trocou",
+    "arquivo": "01-ele-me-trocou",
+    "titulo": "Ele Me Trocou. Eu Comprei a Empresa Dele.",
+    "genero": "Vingança",
+    "tags": [
+      "vingança",
+      "divórcio",
+      "virada de poder",
+      "ex arrependido"
+    ],
+    "sinopse": "Depois de 7 anos bancando o marido, Helena é trocada pela estagiária no aniversário de casamento. Ela some por um ano e volta como a investidora que acabou de comprar a empresa dele — e agora ele precisa da assinatura dela para não falir.",
+    "gancho": "Trocada pela estagiária. Voltou dona da empresa dele.",
+    "episodios": 64,
+    "dublado": false,
+    "lote": "v2",
+    "logo": {
+      "w": 1000,
+      "h": 533
+    },
+    "cor": "#14100d"
+  },
+  {
+    "numero": 2,
+    "id": "o-genro-humilhado",
+    "arquivo": "02-o-genro-humilhado",
+    "titulo": "O Genro Humilhado Era o Dono de Tudo",
+    "genero": "Ação · identidade secreta",
+    "tags": [
+      "identidade secreta",
+      "genro humilhado",
+      "bilionário",
+      "virada"
+    ],
+    "sinopse": "Há três anos Lucas aguenta calado as humilhações da família rica da esposa. Na festa de aniversário da sogra, os seguranças de um grupo bilionário entram procurando o \"presidente\". É ele — e acabou o tempo de ficar quieto.",
+    "gancho": "Humilhado pela família da esposa. Ele é o presidente.",
+    "episodios": 80,
+    "dublado": false,
+    "lote": "v2",
+    "logo": {
+      "w": 1000,
+      "h": 381
+    },
+    "cor": "#2a2217"
+  },
+  {
+    "numero": 3,
+    "id": "a-segunda-familia-do-meu-marido",
+    "arquivo": "03-a-segunda-familia-do-meu-marido",
+    "titulo": "A Segunda Família do Meu Marido",
+    "genero": "Suspense",
+    "tags": [
+      "traição",
+      "segredo de família",
+      "suspense",
+      "investigação"
+    ],
+    "sinopse": "Marina encontra um segundo celular na gaveta do marido. Numa noite, ela o segue e vê, pela janela de outra casa, o homem que ama abraçando outra mulher e uma filha de 6 anos. O que ela descobre depois é muito pior que uma traição.",
+    "gancho": "Um segundo celular. Uma segunda família.",
+    "episodios": 52,
+    "dublado": false,
+    "lote": "v2",
+    "logo": {
+      "w": 1000,
+      "h": 350
+    },
+    "cor": "#101313"
+  },
+  {
+    "numero": 4,
+    "id": "nao-atenda-depois-da-meia-noite",
+    "arquivo": "04-nao-atenda-depois-da-meia-noite",
+    "titulo": "Não Atenda Depois da Meia-Noite",
+    "genero": "Terror",
+    "tags": [
+      "terror",
+      "sobrenatural",
+      "desaparecimento",
+      "mistério"
+    ],
+    "sinopse": "Um ano depois do desaparecimento da irmã, Bia começa a receber ligações do número dela — sempre às 00h00. Cada vez que atende, alguém da cidade some. A voz do outro lado diz que só vai parar quando ela for buscá-la.",
+    "gancho": "A irmã sumiu. Agora ela liga à meia-noite.",
+    "episodios": 40,
+    "dublado": false,
+    "lote": "v2",
+    "logo": {
+      "w": 1000,
+      "h": 477
+    },
+    "cor": "#191815"
+  },
+  {
+    "numero": 5,
+    "id": "troquei-de-corpo-com-a-minha-sogra",
+    "arquivo": "05-troquei-de-corpo-com-a-minha-sogra",
+    "titulo": "Troquei de Corpo com a Minha Sogra",
+    "genero": "Comédia",
+    "tags": [
+      "comédia",
+      "troca de corpos",
+      "sogra",
+      "família"
+    ],
+    "sinopse": "Clara e a sogra, dona Lourdes, se odeiam. Depois de uma briga no aniversário da família e um raio, as duas acordam uma no corpo da outra — e precisam fingir que nada aconteceu.",
+    "gancho": "Nora e sogra acordam uma no corpo da outra.",
+    "episodios": 60,
+    "dublado": false,
+    "lote": "v2",
+    "logo": {
+      "w": 1000,
+      "h": 367
+    },
+    "cor": "#3c372c"
+  },
+  {
+    "numero": 6,
+    "id": "a-delegada-que-prendeu-o-proprio-pai",
+    "arquivo": "06-a-delegada-que-prendeu-o-proprio-pai",
+    "titulo": "A Delegada Que Prendeu o Próprio Pai",
+    "genero": "Policial",
+    "tags": [
+      "policial",
+      "crime",
+      "família",
+      "dilema moral"
+    ],
+    "sinopse": "A delegada Renata investiga uma rede de lavagem de dinheiro no porto de Santos. Todas as provas apontam para o empresário mais respeitado da cidade: o pai dela.",
+    "gancho": "Todas as provas apontam para o pai dela.",
+    "episodios": 58,
+    "dublado": false,
+    "lote": "v2",
+    "logo": {
+      "w": 1000,
+      "h": 391
+    },
+    "cor": "#1a1b1a"
+  },
+  {
+    "numero": 7,
+    "id": "rejeitada-pelo-alfa",
+    "arquivo": "07-rejeitada-pelo-alfa",
+    "titulo": "Rejeitada Pelo Alfa, Escolhida Pela Lua",
+    "genero": "Fantasia · lobisomem",
+    "tags": [
+      "lobisomem",
+      "companheira rejeitada",
+      "triângulo",
+      "poder oculto"
+    ],
+    "sinopse": "Na noite do vínculo, o Alfa Kael rejeita Maya diante de toda a matilha. Mas ela é a primeira loba branca em 300 anos — e o líder da matilha rival fará de tudo para tê-la ao seu lado.",
+    "gancho": "Rejeitada pelo Alfa. Agora todos a querem.",
+    "episodios": 80,
+    "dublado": false,
+    "lote": "v2",
+    "logo": {
+      "w": 1000,
+      "h": 354
+    },
+    "cor": "#171716"
+  },
+  {
+    "numero": 8,
+    "id": "a-concubina-que-renasceu",
+    "arquivo": "08-a-concubina-que-renasceu",
+    "titulo": "A Concubina Que Renasceu Para Reinar",
+    "genero": "Época asiática",
+    "tags": [
+      "renascimento",
+      "palácio",
+      "vingança",
+      "dublado"
+    ],
+    "sinopse": "Envenenada pela imperatriz no dia da coroação, Lian acorda dez anos no passado. Desta vez ela conhece cada traição do palácio — e o imperador frio vai descobrir que a concubina esquecida virou a jogadora mais perigosa da corte.",
+    "gancho": "Envenenada, ela volta dez anos no tempo.",
+    "episodios": 90,
+    "dublado": true,
+    "lote": "v2",
+    "logo": {
+      "w": 1000,
+      "h": 403
+    },
+    "cor": "#2f201a"
+  },
+  {
+    "numero": 9,
+    "id": "fingi-namorar-meu-pior-inimigo",
+    "arquivo": "09-fingi-namorar-meu-pior-inimigo",
+    "titulo": "Fingi Namorar Meu Pior Inimigo",
+    "genero": "Jovem · universitário",
+    "tags": [
+      "namoro falso",
+      "faculdade",
+      "do ódio ao amor",
+      "comédia romântica"
+    ],
+    "sinopse": "Para fazer ciúme no ex, Júlia propõe um namoro de mentira a Theo, o cara que ela mais detesta na faculdade. Três regras: sem beijo, sem sentimentos, sem contar para ninguém. Em uma semana, as três já foram quebradas.",
+    "gancho": "Namoro de mentira. Três regras. Todas quebradas.",
+    "episodios": 62,
+    "dublado": false,
+    "lote": "v2",
+    "logo": {
+      "w": 1000,
+      "h": 376
+    },
+    "cor": "#382923"
+  },
+  {
+    "numero": 10,
+    "id": "ganhei-na-mega-sena",
+    "arquivo": "10-ganhei-na-mega-sena",
+    "titulo": "Ganhei na Mega-Sena e Fingi Que Era Pobre",
+    "genero": "Comédia · Mega-Sena",
+    "tags": [
+      "sorte grande",
+      "família interesseira",
+      "comédia",
+      "segredo"
+    ],
+    "sinopse": "Dani acerta as seis dezenas sozinha e decide não contar para ninguém: quer descobrir quem a ama de verdade — o marido folgado, a sogra que a chama de \"encosto\" ou o vizinho tímido. O prêmio vence em 90 dias, e a família começa a desconfiar.",
+    "gancho": "Ganhou na Mega-Sena. Ninguém pode saber.",
+    "episodios": 70,
+    "dublado": false,
+    "lote": "v3",
+    "logo": {
+      "w": 1000,
+      "h": 374
+    },
+    "cor": "#221e18"
+  },
+  {
+    "numero": 11,
+    "id": "o-motoboy-que-eu-humilhei",
+    "arquivo": "11-o-motoboy-que-eu-humilhei",
+    "titulo": "O Motoboy Que Eu Humilhei Era Bilionário",
+    "genero": "Bilionário disfarçado",
+    "tags": [
+      "bilionário",
+      "identidade secreta",
+      "humilhação e virada",
+      "romance"
+    ],
+    "sinopse": "Na porta do prédio mais caro da Faria Lima, a influenciadora Bárbara humilha o motoboy na frente de todo mundo. No dia seguinte, a empresa dela é comprada — e o novo dono chega à reunião de capacete na mão.",
+    "gancho": "Ela humilhou o motoboy. Ele comprou a empresa dela.",
+    "episodios": 72,
+    "dublado": false,
+    "lote": "v3",
+    "logo": {
+      "w": 1000,
+      "h": 325
+    },
+    "cor": "#211511"
+  },
+  {
+    "numero": 12,
+    "id": "casei-com-o-mendigo",
+    "arquivo": "12-casei-com-o-mendigo",
+    "titulo": "Casei com o Mendigo e Ele Era Dono do Banco",
+    "genero": "Casamento por impulso",
+    "tags": [
+      "casamento por impulso",
+      "bilionário",
+      "identidade secreta",
+      "romance"
+    ],
+    "sinopse": "Para fugir do casamento arranjado pelo pai, Laura pede em casamento o primeiro homem que vê na praça: um morador de rua de barba enorme. Ele é o herdeiro do maior banco do país — e o pai dela deve uma fortuna a esse banco.",
+    "gancho": "Casou com um mendigo. Ele é dono do banco.",
+    "episodios": 68,
+    "dublado": false,
+    "lote": "v3",
+    "logo": {
+      "w": 1000,
+      "h": 277
+    },
+    "cor": "#2e2b25"
+  },
+  {
+    "numero": 13,
+    "id": "a-faxineira-herdou-80-bilhoes",
+    "arquivo": "13-a-faxineira-herdou-80-bilhoes",
+    "titulo": "A Faxineira Herdou 80 Bilhões do Patrão",
+    "genero": "Herança",
+    "tags": [
+      "herança",
+      "família rica",
+      "humilhação e virada",
+      "dinheiro"
+    ],
+    "sinopse": "Durante 15 anos, Rose cuidou do velho Augusto sem pedir nada. No testamento, ele deixa a fortuna inteira para ela — e os filhos dele juram tirar até o último centavo.",
+    "gancho": "A faxineira herdou tudo. Os filhos querem de volta.",
+    "episodios": 75,
+    "dublado": false,
+    "lote": "v3",
+    "logo": {
+      "w": 1000,
+      "h": 477
+    },
+    "cor": "#221e19"
+  },
+  {
+    "numero": 14,
+    "id": "gravida-de-trigemeos",
+    "arquivo": "14-gravida-de-trigemeos",
+    "titulo": "Grávida de Trigêmeos do Bilionário Que Me Demitiu",
+    "genero": "Bebê do CEO",
+    "tags": [
+      "bebê secreto",
+      "CEO",
+      "segunda chance",
+      "romance"
+    ],
+    "sinopse": "Dias depois de ser demitida por mensagem, Bruna descobre que está grávida — de trigêmeos — do chefe com quem passou uma única noite. Quando volta para contar, ele está noivo da filha do sócio.",
+    "gancho": "Demitida e grávida de trigêmeos do chefe.",
+    "episodios": 66,
+    "dublado": false,
+    "lote": "v3",
+    "logo": {
+      "w": 1000,
+      "h": 304
+    },
+    "cor": "#252320"
+  },
+  {
+    "numero": 15,
+    "id": "ajudei-um-velhinho-e-ganhei-uma-ilha",
+    "arquivo": "15-ajudei-um-velhinho-e-ganhei-uma-ilha",
+    "titulo": "Ajudei um Velhinho na Rua e Ganhei uma Ilha",
+    "genero": "Comédia de sorte",
+    "tags": [
+      "sorte",
+      "herança",
+      "comédia",
+      "romance"
+    ],
+    "sinopse": "Mel ajuda um senhor perdido na Paulista a voltar para casa. Uma semana depois, um advogado aparece com a escritura de uma ilha em Angra — e com o neto mal-humorado que jura que é golpe.",
+    "gancho": "Ajudou um velhinho. Ganhou uma ilha.",
+    "episodios": 55,
+    "dublado": false,
+    "lote": "v3",
+    "logo": {
+      "w": 1000,
+      "h": 348
+    },
+    "cor": "#38372e"
+  },
+  {
+    "numero": 16,
+    "id": "largada-no-altar",
+    "arquivo": "16-largada-no-altar",
+    "titulo": "Largada no Altar, Casei com o Garçom Bilionário",
+    "genero": "Noiva abandonada",
+    "tags": [
+      "noiva abandonada",
+      "casamento por impulso",
+      "bilionário",
+      "romance"
+    ],
+    "sinopse": "O noivo foge com a madrinha no meio da cerimônia. Com a igreja cheia, Carol puxa o garçom pela gravata e casa com ele ali mesmo. Na manhã seguinte, o \"garçom\" vem buscá-la de helicóptero.",
+    "gancho": "Largada no altar, casou com o garçom bilionário.",
+    "episodios": 64,
+    "dublado": false,
+    "lote": "v3",
+    "logo": {
+      "w": 1000,
+      "h": 282
+    },
+    "cor": "#2a2524"
+  },
+  {
+    "numero": 17,
+    "id": "minha-sogra-me-expulsou",
+    "arquivo": "17-minha-sogra-me-expulsou",
+    "titulo": "Minha Sogra Me Expulsou. Eu Sou a Dona do Condomínio.",
+    "genero": "Vingança familiar",
+    "tags": [
+      "sogra",
+      "vingança",
+      "virada de poder",
+      "família"
+    ],
+    "sinopse": "Dona Neide põe as malas da nora na calçada na frente de todos os vizinhos. Só não sabe que o condomínio de luxo onde ela mora inteiro pertence à empresa que a nora fundou em segredo.",
+    "gancho": "A sogra a expulsou. O condomínio é dela.",
+    "episodios": 60,
+    "dublado": false,
+    "lote": "v3",
+    "logo": {
+      "w": 1000,
+      "h": 506
+    },
+    "cor": "#262420"
+  },
+  {
+    "numero": 18,
+    "id": "o-cachorro-herdou-tudo",
+    "arquivo": "18-o-cachorro-herdou-tudo",
+    "titulo": "O Cachorro Herdou Tudo e Eu Virei Secretária Dele",
+    "genero": "Comédia absurda",
+    "tags": [
+      "herança",
+      "comédia",
+      "família rica",
+      "pet"
+    ],
+    "sinopse": "O magnata excêntrico deixa 3 bilhões para Duque, seu samoieda — e só a passeadora, Ana, pode administrar a fortuna em nome dele. Agora a família inteira tem que pedir dinheiro para ela.",
+    "gancho": "O cachorro herdou 3 bilhões. Ela cuida do dinheiro.",
+    "episodios": 50,
+    "dublado": false,
+    "lote": "v3",
+    "logo": {
+      "w": 1000,
+      "h": 399
+    },
+    "cor": "#171513"
+  }
+]

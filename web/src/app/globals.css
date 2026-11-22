@@ -1,0 +1,289 @@
+/* =====================================================================
+   Tokens da plataforma (base: referencia-netflix/tokens.css)
+   A cor de ação e o nome são PROVISÓRIOS — troque aqui e tudo acompanha.
+   ===================================================================== */
+:root {
+  /* Marca */
+  --accent: #ec1c5b;
+  --accent-hover: #d2184f;
+  --accent-pressed: #a3103c;
+  --accent-soft: rgba(236, 28, 91, 0.16);
+  --gold: #f4b740;
+  --gold-ink: #2a1d00;
+
+  /* Superfícies */
+  --bg: #141414;
+  --bg-rail: #0d0d0d;
+  --surface-1: #1a1a1a;
+  --surface-2: #232323;
+  --surface-3: #2d2d2d;
+  --surface-hover: #3a3a3a;
+  --line: rgba(255, 255, 255, 0.08);
+  --glass: rgba(255, 255, 255, 0.06);
+  --glass-border: rgba(255, 255, 255, 0.08);
+  --scrim: rgba(0, 0, 0, 0.72);
+
+  /* Texto */
+  --text: #ffffff;
+  --text-2: rgba(255, 255, 255, 0.74);
+  --text-3: rgba(255, 255, 255, 0.52);
+  --text-4: rgba(255, 255, 255, 0.36);
+
+  /* Botões */
+  --btn-light: #ffffff;
+  --btn-light-hover: rgba(255, 255, 255, 0.82);
+  --btn-neutral: rgba(109, 109, 110, 0.7);
+  --btn-neutral-hover: rgba(109, 109, 110, 0.5);
+  --rank-fill: #141414;
+
+  --font-sans: var(--font-inter), "Helvetica Neue", "Segoe UI", Roboto, Ubuntu, sans-serif;
+
+  /* Movimento (curvas medidas na Netflix) */
+  --ease-standard: cubic-bezier(0.4, 0, 0.68, 0.06);
+  --ease-emph: cubic-bezier(0.32, 0.94, 0.6, 1);
+  --ease-out: cubic-bezier(0.2, 0.7, 0.2, 1);
+  /* chegada firme: rápida no começo, assenta devagar (entradas e trocas de tela) */
+  --ease-expo: cubic-bezier(0.16, 1, 0.3, 1);
+  --dur-fast: 180ms;
+  --dur-base: 250ms;
+  --dur-slow: 450ms;
+
+  /* Formas */
+  --r-sm: 6px;
+  --r-md: 10px;
+  --r-lg: 14px;
+  --r-xl: 20px;
+  --r-pill: 999px;
+
+  /* Layout (mobile primeiro) */
+  --rail-w: 0px;
+  /* inclui a área do entalhe quando o app abre em tela cheia pela tela inicial */
+  --topbar-h: calc(56px + env(safe-area-inset-top, 0px));
+  --tabbar-h: 64px;
+  --gutter: 16px;
+  --section-gap: 28px;
+  --card-gap: 10px;
+
+  /* Camadas */
+  --z-nav: 50;
+  --z-modal: 1000;
+  --z-toast: 1002;
+}
+
+@media (min-width: 600px) {
+  :root {
+    --gutter: 24px;
+    --card-gap: 12px;
+  }
+}
+
+@media (min-width: 960px) {
+  :root {
+    --rail-w: 92px;
+    --gutter: 32px;
+    --section-gap: 40px;
+    --card-gap: 16px;
+  }
+}
+
+@media (min-width: 1280px) {
+  :root {
+    --gutter: 48px;
+    --section-gap: 48px;
+    --card-gap: 18px;
+  }
+}
+
+@media (min-width: 1600px) {
+  :root {
+    --gutter: 56px;
+  }
+}
+
+/* ---------- Base ---------- */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  color-scheme: dark;
+  -webkit-text-size-adjust: 100%;
+  scrollbar-color: #3a3a3a transparent;
+}
+
+::selection {
+  background: rgba(236, 28, 91, 0.5);
+  color: #fff;
+}
+
+body {
+  min-height: 100dvh;
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font-sans);
+  font-size: 16px;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+}
+
+/* ---------- Sensação de app ---------- */
+/* sem o elástico e o "puxar para atualizar" do navegador; toque sem atraso e sem realce azul */
+html {
+  overscroll-behavior-y: none;
+}
+
+body {
+  -webkit-tap-highlight-color: transparent;
+}
+
+a,
+button,
+[role="tab"],
+label {
+  touch-action: manipulation;
+  -webkit-user-select: none;
+  user-select: none;
+  -webkit-touch-callout: none;
+}
+
+img,
+video {
+  -webkit-user-drag: none;
+  user-select: none;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+button {
+  font: inherit;
+  color: inherit;
+  background: none;
+  border: 0;
+  padding: 0;
+  cursor: pointer;
+}
+
+button:disabled {
+  cursor: default;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+ul,
+ol {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+p {
+  margin: 0;
+}
+
+input {
+  font: inherit;
+  color: inherit;
+  caret-color: var(--accent);
+}
+
+:focus-visible {
+  outline: 2px solid #fff;
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+.visually-hidden {
+  position: absolute !important;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+/* ---------- Páginas internas (tudo menos a home e o feed) ---------- */
+.page {
+  padding: calc(var(--topbar-h) + 20px) var(--gutter) 40px;
+  animation: pagina 460ms var(--ease-expo) both;
+}
+
+/* cada página chega subindo um pouco: a troca de tela fica clara */
+@keyframes pagina {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+}
+
+@media (min-width: 960px) {
+  .page {
+    padding: 40px var(--gutter) 56px;
+  }
+}
+
+.page-head {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 16px 24px;
+  margin-bottom: 24px;
+}
+
+.page-title {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  font-size: clamp(26px, 3.2vw, 40px);
+  font-weight: 800;
+  line-height: 1.1;
+  letter-spacing: -0.02em;
+}
+
+/* ícone do tema ao lado do título da página */
+.page-title > svg {
+  flex: none;
+  width: 1.05em;
+  height: 1.05em;
+  color: var(--accent);
+}
+
+.page-sub {
+  margin-top: 6px;
+  font-size: 15px;
+  color: var(--text-3);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

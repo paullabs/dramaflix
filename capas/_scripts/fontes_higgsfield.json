@@ -1,0 +1,304 @@
+{
+ "fotos": {
+  "capas/v2/fotos/01a": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_044719_35cedaf8-960d-42e2-b7eb-3cfa78d86100.png",
+   "modelo": "text2image_soul_v2"
+  },
+  "capas/v2/fotos/01b": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_044718_65a364ea-0bcf-403a-ab04-c04a176a5d35.png",
+   "modelo": "text2image_soul_v2"
+  },
+  "capas/v2/fotos/02a": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_044718_e8984939-087f-4beb-b5a2-dac51acb4cd4.png",
+   "modelo": "text2image_soul_v2"
+  },
+  "capas/v2/fotos/02b": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_044718_5cc5aca3-d891-432e-af6b-adc4f297d009.png",
+   "modelo": "text2image_soul_v2"
+  },
+  "capas/v2/fotos/03a": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_044718_b13b1c79-24ee-4fbf-965c-6573bd381c08.png",
+   "modelo": "text2image_soul_v2"
+  },
+  "capas/v2/fotos/03b": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_044718_dc7b675a-6aac-408c-8bd0-f1f426a6a42e.png",
+   "modelo": "text2image_soul_v2"
+  },
+  "capas/v2/fotos/04a": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_044718_ee92011c-f4fb-45d1-8639-c8ab6eb32bcb.png",
+   "modelo": "text2image_soul_v2"
+  },
+  "capas/v2/fotos/04b": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_044746_99a332de-721d-4a1c-9726-db8712dffa7e.png",
+   "modelo": "text2image_soul_v2"
+  },
+  "capas/v2/fotos/05a": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_044746_264e57b1-dfd5-40ad-a92a-0a01138158bc.png",
+   "modelo": "text2image_soul_v2"
+  },
+  "capas/v2/fotos/05b": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_044746_7985f0c9-b748-49e5-8062-7ab17ffd2a3a.png",
+   "modelo": "text2image_soul_v2"
+  },
+  "capas/v2/fotos/06a": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_044747_ec097862-31b1-4b95-aa8f-b30942755c35.png",
+   "modelo": "text2image_soul_v2"
+  },
+  "capas/v2/fotos/06b": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_044747_57df0e0a-7b0b-4b2c-b661-9a8100cee18b.png",
+   "modelo": "text2image_soul_v2"
+  },
+  "capas/v2/fotos/07a": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_044748_d3c7965b-53e3-4674-8f5b-f37eddafaade.png",
+   "modelo": "text2image_soul_v2"
+  },
+  "capas/v2/fotos/07b": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_044748_8ca717ac-d27c-4e16-978c-619d067b4905.png",
+   "modelo": "text2image_soul_v2"
+  },
+  "capas/v2/fotos/08a": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_044812_41dce6d3-f706-4d34-a2b9-023e159f9ebd.png",
+   "modelo": "text2image_soul_v2"
+  },
+  "capas/v2/fotos/08b": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_044813_5d4e1adb-192b-4970-8bdb-24d20f8de9cf.png",
+   "modelo": "text2image_soul_v2"
+  },
+  "capas/v2/fotos/09a": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_044813_ded5c7ac-d61f-4384-bf4f-d8de3179a5a2.png",
+   "modelo": "text2image_soul_v2"
+  },
+  "capas/v2/fotos/09b": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_044815_4dc3e64a-92e2-427d-a441-bbb73f527d27.png",
+   "modelo": "text2image_soul_v2"
+  },
+  "capas/v2/fotos/09c": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_045253_ecafab42-23a7-4701-bcf9-cb0573e4eac1.png",
+   "modelo": "text2image_soul_v2"
+  },
+  "capas/v2/fotos/09d": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_045253_a0512be0-54a4-4864-8ec5-a8ded8ecbe6c.png",
+   "modelo": "text2image_soul_v2"
+  },
+  "capas/v3/fotos/10a": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_051011_45d03643-f9bb-4a0c-8a87-d2106ae2ff10.png",
+   "modelo": "text2image_soul_v2"
+  },
+  "capas/v3/fotos/10b": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_051011_ace23a64-39d9-43ea-ae9b-bea330320675.png",
+   "modelo": "text2image_soul_v2"
+  },
+  "capas/v3/fotos/11a": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_051011_d41abc5a-d1a2-491c-bddd-521d57ea7a82.png",
+   "modelo": "text2image_soul_v2"
+  },
+  "capas/v3/fotos/11b": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_051013_840f1ef1-b39d-41aa-81e9-c84875b5a2ae.png",
+   "modelo": "text2image_soul_v2"
+  },
+  "capas/v3/fotos/12a": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_051010_abe38ce3-f65b-4ad8-aa5d-c3b7d78af0c9.png",
+   "modelo": "text2image_soul_v2"
+  },
+  "capas/v3/fotos/12b": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_051011_587355f2-ec52-4848-97fe-6672e445deb1.png",
+   "modelo": "text2image_soul_v2"
+  },
+  "capas/v3/fotos/13a": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_051011_193fb4de-3dec-44ab-a73e-1a7240ecb899.png",
+   "modelo": "text2image_soul_v2"
+  },
+  "capas/v3/fotos/13b": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_051038_0416f374-6e48-4399-877a-3bf7d632b371.png",
+   "modelo": "text2image_soul_v2"
+  },
+  "capas/v3/fotos/14a": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_051040_f3f038b0-c765-415b-a680-5d3435c96f1d.png",
+   "modelo": "text2image_soul_v2"
+  },
+  "capas/v3/fotos/14b": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_051040_d49a664e-bde1-4cc3-854a-d5f17fe599bd.png",
+   "modelo": "text2image_soul_v2"
+  },
+  "capas/v3/fotos/15a": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_051040_5865b436-dac1-40cd-b5bf-a1d9e90512a6.png",
+   "modelo": "text2image_soul_v2"
+  },
+  "capas/v3/fotos/15b": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_051041_dff6ac24-a0b8-4512-920d-9310d41dd13c.png",
+   "modelo": "text2image_soul_v2"
+  },
+  "capas/v3/fotos/16a": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_051043_43302b85-1fe2-4268-ac4e-e8760faa3ca1.png",
+   "modelo": "text2image_soul_v2"
+  },
+  "capas/v3/fotos/16b": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_051045_ce0503a7-7e41-42b0-81b8-99195c762a11.png",
+   "modelo": "text2image_soul_v2"
+  },
+  "capas/v3/fotos/17a": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_051118_28d72876-38e8-42b0-967c-2ed4066db7c6.png",
+   "modelo": "text2image_soul_v2"
+  },
+  "capas/v3/fotos/17b": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_051119_84e65a29-eb53-47cb-b605-7e6748e3b2d0.png",
+   "modelo": "text2image_soul_v2"
+  },
+  "capas/v3/fotos/18a": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_051119_e6faac5b-9588-4536-a953-2e1b23d93afe.png",
+   "modelo": "text2image_soul_v2"
+  },
+  "capas/v3/fotos/18b": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_051120_16881630-f3a0-4ee4-8258-fe6a164187db.png",
+   "modelo": "text2image_soul_v2"
+  }
+ },
+ "titulos": {
+  "capas/v2/titulos/01": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_044816_68f40b4a-697a-4946-a3bb-44b168b75312.png",
+   "modelo": "gpt_image_2_5"
+  },
+  "capas/v2/titulos/02": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_045030_2a5dcc08-365f-421b-9ba4-4798020b8034.png",
+   "modelo": "gpt_image_2_5"
+  },
+  "capas/v2/titulos/03": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_045030_56c6c151-77f7-4cc8-b752-75524a98eecb.png",
+   "modelo": "gpt_image_2_5"
+  },
+  "capas/v2/titulos/04": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_045031_8ebdf3f0-c9d0-44c6-acac-a404e183c418.png",
+   "modelo": "gpt_image_2_5"
+  },
+  "capas/v2/titulos/05": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_045031_385ee58f-a928-4775-a5d4-3f0c80be0bbe.png",
+   "modelo": "gpt_image_2_5"
+  },
+  "capas/v2/titulos/06": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_045030_b3c20654-fc0f-4274-ad30-358b4b4187e8.png",
+   "modelo": "gpt_image_2_5"
+  },
+  "capas/v2/titulos/07": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_045030_c66c4513-f595-4d3e-b3a3-196685b3eb8c.png",
+   "modelo": "gpt_image_2_5"
+  },
+  "capas/v2/titulos/08": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_045031_0bb9671a-8b64-4506-9182-c81dde8d82db.png",
+   "modelo": "gpt_image_2_5"
+  },
+  "capas/v2/titulos/09": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_045104_c3605d9b-3c5c-4b3d-8ad5-0e58fa4b3288.png",
+   "modelo": "gpt_image_2_5"
+  },
+  "capas/v3/titulos/10": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_051123_4440a960-33aa-4084-bb00-d378cbbb3e9e.png",
+   "modelo": "gpt_image_2_5"
+  },
+  "capas/v3/titulos/11": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_051125_b5d4ace6-ed4a-45ea-8e74-927a704ee287.png",
+   "modelo": "gpt_image_2_5"
+  },
+  "capas/v3/titulos/12": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_051127_5d482173-8473-4983-a865-c888285626ba.png",
+   "modelo": "gpt_image_2_5"
+  },
+  "capas/v3/titulos/13": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_051143_1564a3af-22e1-4452-9936-3f34424f8ba5.png",
+   "modelo": "gpt_image_2_5"
+  },
+  "capas/v3/titulos/14": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_051152_fd0eb74a-8b8c-45d6-b75d-0c1b501024fa.png",
+   "modelo": "gpt_image_2_5"
+  },
+  "capas/v3/titulos/15": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_051153_aff900fe-8dff-4f94-a752-8d72a09ed68b.png",
+   "modelo": "gpt_image_2_5"
+  },
+  "capas/v3/titulos/16": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_051156_77d54ddf-5950-4a54-8b70-cacd090b1f1b.png",
+   "modelo": "gpt_image_2_5"
+  },
+  "capas/v3/titulos/17": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_051158_fbbbfd96-43d4-478c-91f9-7aa08ec1486b.png",
+   "modelo": "gpt_image_2_5"
+  },
+  "capas/v3/titulos/18": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_051159_3a903d19-8c71-4e35-a40e-daf88b078ec9.png",
+   "modelo": "gpt_image_2_5"
+  }
+ },
+ "banners": {
+  "capas/banners/01-ele-me-trocou": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_051813_6e6d6bfd-dbac-42f4-b953-76e4b08fbabf.png",
+   "modelo": "seedream_v5_pro"
+  },
+  "capas/banners/02-o-genro-humilhado": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_052047_ddd23c98-cb73-4947-96c9-4a4f1e49d231.png",
+   "modelo": "seedream_v5_pro"
+  },
+  "capas/banners/03-a-segunda-familia-do-meu-marido": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_052047_11b66792-108d-4dad-8b76-04d61de43ae9.png",
+   "modelo": "seedream_v5_pro"
+  },
+  "capas/banners/04-nao-atenda-depois-da-meia-noite": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_052046_bd3f1db3-a7e8-4803-9b1a-a58785f918be.png",
+   "modelo": "seedream_v5_pro"
+  },
+  "capas/banners/05-troquei-de-corpo-com-a-minha-sogra": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_052046_8db3690c-2598-4801-b221-06fb3f44eb2b.png",
+   "modelo": "seedream_v5_pro"
+  },
+  "capas/banners/06-a-delegada-que-prendeu-o-proprio-pai": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_052046_3b6b3053-5c3b-4046-a1bd-3ca2f910871b.png",
+   "modelo": "seedream_v5_pro"
+  },
+  "capas/banners/07-rejeitada-pelo-alfa": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_052046_dee1fe61-fd4d-4a23-98d3-faa645fecec8.png",
+   "modelo": "seedream_v5_pro"
+  },
+  "capas/banners/08-a-concubina-que-renasceu": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_052046_56760699-9e75-4b4e-941a-adf89aa792bf.png",
+   "modelo": "seedream_v5_pro"
+  },
+  "capas/banners/09-fingi-namorar-meu-pior-inimigo": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_052155_95dc8272-e6f6-44ff-a215-f64a4de68e99.png",
+   "modelo": "seedream_v5_pro"
+  },
+  "capas/banners/10-ganhei-na-mega-sena": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_052157_d1c44f56-a390-4a32-b3c7-1dd003f421f5.png",
+   "modelo": "seedream_v5_pro"
+  },
+  "capas/banners/11-o-motoboy-que-eu-humilhei": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_052156_2f5db395-4e82-4342-a623-24b504c9a8ec.png",
+   "modelo": "seedream_v5_pro"
+  },
+  "capas/banners/12-casei-com-o-mendigo": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_052157_eadb94c7-6577-4b16-9cd0-827766a7e0fc.png",
+   "modelo": "seedream_v5_pro"
+  },
+  "capas/banners/13-a-faxineira-herdou-80-bilhoes": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_052157_c212d68d-14e9-4878-9165-0f838b92a32d.png",
+   "modelo": "seedream_v5_pro"
+  },
+  "capas/banners/14-gravida-de-trigemeos": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_052158_edd31610-1a31-43e1-b240-9a56e2462143.png",
+   "modelo": "seedream_v5_pro"
+  },
+  "capas/banners/15-ajudei-um-velhinho-e-ganhei-uma-ilha": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_052202_2bec3d51-667e-42f2-ba98-58161fabde49.png",
+   "modelo": "seedream_v5_pro"
+  },
+  "capas/banners/16-largada-no-altar": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_052305_4b8fe2a7-4d9d-48bb-bdbd-9c0cc9d1b42f.png",
+   "modelo": "seedream_v5_pro"
+  },
+  "capas/banners/17-minha-sogra-me-expulsou": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_052305_6c1c6d6f-c81c-487b-987b-13a7bfb8324a.png",
+   "modelo": "seedream_v5_pro"
+  },
+  "capas/banners/18-o-cachorro-herdou-tudo": {
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_052306_dd6ba786-f5dd-4144-a623-d8b7608df79f.png",
+   "modelo": "seedream_v5_pro"
+  }
+ }
+}

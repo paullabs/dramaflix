@@ -1,0 +1,44 @@
+.ambiente {
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  overflow: hidden;
+  pointer-events: none;
+  -webkit-mask-image: linear-gradient(180deg, transparent 0%, #000 30%, #000 70%, transparent 100%);
+  mask-image: linear-gradient(180deg, transparent 0%, #000 30%, #000 70%, transparent 100%);
+}
+
+.ambiente img {
+  position: absolute;
+  inset: -12%;
+  width: 124%;
+  height: 124%;
+  max-width: none;
+  object-fit: cover;
+  filter: blur(80px) saturate(1.4);
+  opacity: 0;
+}
+
+.atual {
+  animation: entrar 900ms var(--ease-emph) forwards;
+}
+
+.anterior {
+  opacity: 0.22 !important;
+  animation: sair 900ms ease forwards;
+}
+
+@keyframes entrar {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 0.22;
+  }
+}
+
+@keyframes sair {
+  to {
+    opacity: 0;
+  }
+}

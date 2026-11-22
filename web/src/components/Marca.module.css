@@ -1,0 +1,17 @@
+.wordmark {
+  display: inline-block;
+  font-weight: 900;
+  font-size: 24px;
+  line-height: 1;
+  letter-spacing: -0.04em;
+  color: var(--accent);
+}
+
+.simbolo {
+  display: inline-grid;
+  place-items: center;
+  border-radius: 10px;
+  background: var(--accent);
+  color: #fff;
+  box-shadow: 0 6px 18px rgba(236, 28, 91, 0.35);
+}

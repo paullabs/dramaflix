@@ -1,0 +1,199 @@
+.cabecalho {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 16px 20px;
+  padding: 24px;
+  border-radius: var(--r-xl);
+  background: var(--glass);
+  border: 1px solid var(--glass-border);
+}
+
+.avatar {
+  display: grid;
+  place-items: center;
+  width: 72px;
+  height: 72px;
+  flex: none;
+  border-radius: var(--r-lg);
+  font-size: 32px;
+  font-weight: 900;
+  color: #fff;
+  background:
+    radial-gradient(circle at 30% 30%, rgba(255, 255, 255, 0.35), transparent 55%),
+    linear-gradient(135deg, var(--accent), #6d28d9);
+}
+
+.dados {
+  flex: 1;
+  min-width: 160px;
+}
+
+.nome {
+  display: block;
+  max-width: 100%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-size: 24px;
+  font-weight: 800;
+  text-align: left;
+}
+
+/* campo do nome: uma linha só, com o ✓ ao lado */
+.form {
+  display: flex;
+  gap: 8px;
+  max-width: 340px;
+}
+
+.campo {
+  flex: 1;
+  min-width: 0;
+  height: 44px;
+  padding: 0 14px;
+  border-radius: var(--r-md);
+  border: 1px solid var(--glass-border);
+  background: var(--surface-1);
+  color: var(--text);
+  font: inherit;
+  font-size: 17px;
+  font-weight: 700;
+}
+
+.campo:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 1px;
+}
+
+.ok {
+  display: grid;
+  place-items: center;
+  width: 44px;
+  height: 44px;
+  flex: none;
+  border-radius: var(--r-md);
+  background: var(--accent);
+  color: #fff;
+}
+
+.ok:disabled {
+  background: var(--surface-3);
+  color: var(--text-3);
+}
+
+.continuar {
+  margin-top: 8px;
+}
+
+.status {
+  margin-top: 6px;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  height: 28px;
+  padding: 0 10px;
+  border-radius: var(--r-pill);
+  background: var(--surface-3);
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.vip {
+  background: var(--gold);
+  color: var(--gold-ink);
+}
+
+.menu {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  max-width: 720px;
+}
+
+.item {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  width: 100%;
+  min-height: 64px;
+  padding: 10px 14px 10px 10px;
+  border-radius: var(--r-lg);
+  background: var(--surface-1);
+  text-align: left;
+  transition:
+    background-color var(--dur-fast) ease,
+    transform var(--dur-fast) ease;
+}
+
+.item:hover {
+  background: var(--surface-2);
+}
+
+.item:active {
+  transform: scale(0.985);
+}
+
+.icone {
+  display: grid;
+  place-items: center;
+  width: 44px;
+  height: 44px;
+  flex: none;
+  border-radius: var(--r-md);
+  background: var(--surface-3);
+}
+
+.azul {
+  background: rgba(59, 130, 246, 0.16);
+  color: #60a5fa;
+}
+
+.rosa {
+  background: var(--accent-soft);
+  color: var(--accent);
+}
+
+.ouro {
+  background: rgba(244, 183, 64, 0.14);
+  color: var(--gold);
+}
+
+.verde {
+  background: rgba(74, 222, 128, 0.14);
+  color: #4ade80;
+}
+
+.cinza {
+  color: var(--text-2);
+}
+
+.rotulo {
+  flex: 1;
+  min-width: 0;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.valor {
+  font-size: 15px;
+  font-weight: 700;
+  color: var(--text-2);
+  font-variant-numeric: tabular-nums;
+}
+
+.seta {
+  flex: none;
+  color: var(--text-4);
+  transition: transform var(--dur-fast) ease;
+}
+
+.item:hover .seta {
+  transform: translateX(3px);
+}
+
+.perigo .rotulo,
+.perigo .icone {
+  color: #f87171;
+}

@@ -1,0 +1,123 @@
+.faixas {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 14px;
+}
+
+.faixa {
+  height: 34px;
+  padding: 0 16px;
+  border-radius: var(--r-pill);
+  background: var(--glass);
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--text-2);
+  transition: background-color var(--dur-fast) ease;
+}
+
+.faixa:hover {
+  background: rgba(255, 255, 255, 0.12);
+}
+
+.faixaOn,
+.faixaOn:hover {
+  background: #fff;
+  color: #000;
+}
+
+.grade {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(54px, 1fr));
+  gap: 8px;
+}
+
+/* ao trocar de faixa, os números entram em onda */
+.grade > li {
+  animation: entrar 420ms var(--ease-expo) both;
+  animation-delay: calc(min(var(--n, 0), 12) * 18ms);
+}
+
+@keyframes entrar {
+  from {
+    opacity: 0;
+    transform: translateY(8px) scale(0.94);
+  }
+}
+
+.compacto .grade {
+  grid-template-columns: repeat(auto-fill, minmax(46px, 1fr));
+}
+
+.ep {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 1;
+  display: grid;
+  place-items: center;
+  border-radius: var(--r-md);
+  font-size: 15px;
+  font-weight: 650;
+  transition:
+    background-color var(--dur-fast) ease,
+    box-shadow var(--dur-fast) ease,
+    transform var(--dur-fast) ease;
+}
+
+.livre {
+  background: var(--surface-3);
+}
+
+.livre:hover {
+  background: var(--surface-hover);
+}
+
+.ep:active {
+  transform: scale(0.94);
+}
+
+.visto {
+  background: var(--surface-2);
+  color: var(--text-3);
+}
+
+.atual {
+  background: var(--accent-soft);
+  box-shadow: inset 0 0 0 2px var(--accent);
+}
+
+.atual .marca {
+  color: var(--accent);
+  opacity: 1;
+}
+
+.bloqueado {
+  background: #1b1b1b;
+  color: var(--text-4);
+}
+
+.bloqueado:hover {
+  background: #252525;
+}
+
+/* ainda não saiu: apagado, com relógio */
+.emBreve {
+  background: transparent;
+  box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.1);
+  color: var(--text-4);
+}
+
+.emBreve:hover {
+  background: rgba(255, 255, 255, 0.04);
+}
+
+.sel {
+  box-shadow: inset 0 0 0 2px #fff;
+}
+
+.marca {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  opacity: 0.8;
+}

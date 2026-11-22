@@ -1,0 +1,92 @@
+.vazio {
+  max-width: 460px;
+  margin: 48px auto;
+  padding: 36px 24px;
+  text-align: center;
+  border-radius: var(--r-xl);
+  background: var(--glass);
+  border: 1px solid var(--glass-border);
+}
+
+.icone {
+  display: inline-grid;
+  place-items: center;
+  width: 72px;
+  height: 72px;
+  border-radius: 50%;
+  background: var(--accent-soft);
+  color: var(--accent);
+  margin-bottom: 16px;
+  animation: flutuar 3.2s ease-in-out infinite;
+}
+
+/* a figura do estado vazio respira devagar, chamando o olhar sem pressa */
+@keyframes flutuar {
+  50% {
+    transform: translateY(-5px);
+  }
+}
+
+.contagem {
+  display: inline-grid;
+  place-items: center;
+  min-width: 34px;
+  height: 30px;
+  padding: 0 10px;
+  border-radius: var(--r-pill);
+  background: var(--surface-2);
+  font-size: 15px;
+  font-weight: 700;
+  letter-spacing: 0;
+  color: var(--text-2);
+}
+
+.dica {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+}
+
+/* o "+" desenhado igual ao botão de verdade */
+.tecla {
+  display: inline-grid;
+  place-items: center;
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  color: #fff;
+  box-shadow: inset 0 0 0 1.5px rgba(255, 255, 255, 0.6);
+}
+
+.vazio h2,
+.titulo {
+  font-size: 22px;
+  font-weight: 750;
+}
+
+.vazio p {
+  margin-top: 8px;
+  font-size: 16px;
+  color: var(--text-2);
+}
+
+.botoes {
+  margin-top: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+}
+
+/* celular estreito: os dois botões empilhados na largura toda, em vez de quebrar torto */
+@media (max-width: 420px) {
+  .vazio {
+    padding: 32px 20px;
+  }
+
+  .botoes {
+    flex-direction: column;
+    align-items: stretch;
+  }
+}

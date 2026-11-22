@@ -1,0 +1,415 @@
+{
+  "serie": "Ganhei na Mega-Sena e Fingi Que Era Pobre",
+  "mundo": "Present-day São Paulo, Brazil (2026), working-class East Zone neighbourhood; a small rented apartment in a walk-up building. Vertical short drama, Realism style.",
+  "style": "Realism",
+  "spicy": "basic",
+  "characters": {
+    "dani": {
+      "name": "Dani",
+      "description": "Proposed: Overworked supermarket cashier who pays every bill for her lazy husband and her mother-in-law; secretly the sole winner of a R$212 million lottery prize who pretends to stay poor to find out who really loves her.",
+      "facts": [
+        "Age: 28",
+        "Gender: woman",
+        "Ethnicity/origin: Brazilian (mixed); Skin tone: light tan olive with faint freckles; Eye colour: warm brown",
+        "Hair colour: dark brown with lighter brown ends; Hair length: shoulder-length; Hair texture: curly; Hair styling: loose natural curls",
+        "Build: slim, with natural curves",
+        "Base outfit: faded sage-green cotton crew-neck t-shirt, worn light-wash slim jeans, scuffed white canvas sneakers, small gold stud earrings, a thin silver ring"
+      ],
+      "archetype": {
+        "parts": "The underdog",
+        "looks": "before the turn plain, worn or work clothes and one detail that hints at the hidden power; after the turn severe, expensive clothes.",
+        "read": "The overworked cashier everyone treats as a burden, secretly holding a R$212 million ticket; the viewer roots for her payback. Status: low_to_high. Presentation: natural."
+      }
+    },
+    "cleber": {
+      "name": "Cléber",
+      "description": "Proposed: Dani's husband, unemployed for three years, a self-proclaimed digital entrepreneur who lives on the sofa filming short videos, asks her for money and secretly flirts with the upstairs neighbour.",
+      "facts": [
+        "Age: 32",
+        "Gender: man",
+        "Ethnicity/origin: Brazilian (mixed); Skin tone: light brown; Eye colour: dark brown",
+        "Hair colour: black; Hair length: short; Hair texture: straight; Hair styling: skin fade with a small gelled quiff",
+        "Facial hair: thin goatee with light stubble",
+        "Build: soft and slightly heavy, with a small beer belly",
+        "Base outfit: white cotton t-shirt, grey cotton track shorts, black rubber slides worn with white socks, a thin gold-tone chain necklace"
+      ],
+      "archetype": {
+        "parts": "The impostor",
+        "looks": "a too-perfect look - an innocent white or soft dress in expensive fabric and flawless hair, or a tight, bold outfit and bold makeup; nothing worn or accidental.",
+        "read": "The sofa-bound husband who fakes affection while begging for her money and flirting with the neighbour; the viewer wants him exposed. Status: mid. Presentation: staged."
+      }
+    },
+    "neusa": {
+      "name": "Dona Neusa",
+      "description": "Proposed: Cléber's mother, who lives rent-free in the flat Dani pays for, calls her daughter-in-law a jinx, cooks black beans in a pressure cooker every day and worships her son.",
+      "facts": [
+        "Age: 58",
+        "Gender: woman",
+        "Ethnicity/origin: Brazilian (mixed); Skin tone: light-medium; Eye colour: dark brown",
+        "Hair colour: dark brown with grey roots; Hair length: short; Hair texture: wavy; Hair styling: short layered bob",
+        "Build: heavy-set, plump",
+        "Base outfit: short-sleeved black viscose blouse with a large wine-red and old-gold floral print, black capri trousers, beige house slippers, chunky gold-tone hoop earrings, a gold-tone chain with a small pendant"
+      ],
+      "archetype": {
+        "parts": "The oppressor",
+        "looks": "showy wealth or force - designer clothes, logos, gold, heavy jewellery, or the gear of brute strength - and people around them.",
+        "read": "The bossy mother-in-law who calls her daughter-in-law a jinx inside the home she pays for; the viewer wants her put in her place. Status: high. Presentation: showy."
+      }
+    },
+    "tiago": {
+      "name": "Tiago",
+      "description": "Proposed: The shy neighbour across the hall, a public-school maths teacher who delivers by bicycle at weekends; he always lends sugar in a blue enamel mug and has loved Dani in silence for two years.",
+      "facts": [
+        "Age: 30",
+        "Gender: man",
+        "Ethnicity/origin: Black Brazilian; Skin tone: deep brown; Eye colour: dark brown",
+        "Hair colour: black; Hair length: short; Hair texture: coily; Hair styling: neat short crop",
+        "Facial hair: short neat beard",
+        "Build: lean",
+        "Base outfit: light chambray button-up shirt with the sleeves rolled to the forearms over a white crew-neck t-shirt, beige cotton chinos, worn brown leather sneakers"
+      ],
+      "archetype": {
+        "parts": "The pure heart",
+        "looks": "simple, clean everyday or work clothes, soft or bright; something in their hands to give.",
+        "read": "The shy neighbour who always lends sugar and offers his last savings; the viewer falls for his quiet kindness. Status: low. Presentation: natural."
+      }
+    },
+    "kelly": {
+      "name": "Kelly",
+      "description": "Proposed: The upstairs neighbour, a fitness influencer with forty thousand followers who chases anyone who looks rich and flirts with Cléber.",
+      "facts": [
+        "Age: 27",
+        "Gender: woman",
+        "Ethnicity/origin: Brazilian (white); Skin tone: fair with a light tan; Eye colour: hazel",
+        "Hair colour: platinum blonde; Hair length: long; Hair texture: straight; Hair styling: sleek high ponytail",
+        "Makeup: bold glam makeup with full lashes and glossy nude lips",
+        "Build: slim and toned, with athletic curves",
+        "Base outfit: matching pale blush athleisure set (cropped zip-up jacket and high-waist leggings), chunky white sneakers, small gold hoop earrings"
+      ],
+      "archetype": {
+        "parts": "The impostor",
+        "looks": "a too-perfect look - an innocent white or soft dress in expensive fabric and flawless hair, or a tight, bold outfit and bold makeup; nothing worn or accidental.",
+        "read": "The gold-digging fitness influencer who chases whoever looks rich; the viewer can't wait to see her fooled. Status: high. Presentation: staged."
+      }
+    },
+    "valter": {
+      "name": "Seu Valter",
+      "description": "Proposed: The branch manager of a São Paulo bank who receives lottery winners in a private room; formal, discreet and easily startled.",
+      "facts": [
+        "Age: 55",
+        "Gender: man",
+        "Ethnicity/origin: Brazilian (mixed); Skin tone: medium brown; Eye colour: dark brown",
+        "Hair colour: black with grey at the temples; Hair length: short; Hair texture: straight; Hair styling: thinning on top, neatly combed to the side",
+        "Facial hair: neat thin moustache",
+        "Build: average, slightly round",
+        "Base outfit: light blue short-sleeved dress shirt, navy blue tie, charcoal grey trousers, black leather belt, black leather shoes"
+      ],
+      "archetype": {
+        "parts": "The functional character",
+        "looks": "the clothes of their job.",
+        "read": "The polite bank manager who tells Dani the size of her prize and nearly faints with her; the viewer enjoys his panic. Status: mid. Presentation: functional."
+      }
+    }
+  },
+  "pictures": [
+    {
+      "id": "dani_sheet",
+      "texts": [
+        "references/realism_cinematic/sheet-from-photo.txt"
+      ],
+      "input": {
+        "image": "character sheet",
+        "style": "Realism",
+        "aspectRatio": "16:9",
+        "spicy": "basic",
+        "subject": "characters.dani",
+        "images": [
+          {
+            "tag": "the attached reference image",
+            "use": "the uploaded photograph of the actress: this character's face (a real photo uploaded by the user)"
+          }
+        ],
+        "notes": [
+          "Base look at home: the faded sage-green t-shirt, light-wash jeans and white canvas sneakers she wears on the series cover."
+        ]
+      }
+    },
+    {
+      "id": "dani_look_disfarce",
+      "texts": [
+        "references/realism_cinematic/look-sheet-from-photo.txt"
+      ],
+      "depends_on": [
+        "dani_sheet"
+      ],
+      "input": {
+        "image": "character sheet of a look",
+        "style": "Realism",
+        "aspectRatio": "16:9",
+        "spicy": "basic",
+        "subject": "characters.dani",
+        "look": {
+          "label": "Bank disguise",
+          "description": "Dani sneaking into the bank to claim the prize in a clumsy disguise borrowed from home.",
+          "changes": "Over the same faded sage-green t-shirt, jeans and white canvas sneakers she now wears her mother-in-law's camel trench coat, belted at the waist with its own belt, and a black silk headscarf printed with large wine-red and old-gold flowers, tied under the chin and covering her hair.",
+          "body": "same",
+          "face": "same"
+        },
+        "worn": [
+          {
+            "item": "camel trench coat belted at the waist",
+            "prop": false,
+            "throughout": true
+          },
+          {
+            "item": "black silk headscarf with large wine-red and old-gold flowers, tied under the chin",
+            "prop": false,
+            "throughout": true
+          },
+          {
+            "item": "big black sunglasses",
+            "prop": true,
+            "throughout": false
+          }
+        ],
+        "images": [
+          {
+            "tag": "the first attached reference image",
+            "use": "the uploaded photograph of the actress: this character's face"
+          },
+          {
+            "tag": "the second attached reference image",
+            "use": "the parent look's sheet: preserve this entity's approved identity while following the selected look"
+          }
+        ],
+        "notes": [
+          "Comic disguise for episode 2; the sunglasses are a separate prop."
+        ]
+      }
+    },
+    {
+      "id": "cleber_face",
+      "texts": [
+        "references/realism_cinematic/face.txt"
+      ],
+      "input": {
+        "image": "face",
+        "style": "Realism",
+        "aspectRatio": "3:4",
+        "spicy": "basic",
+        "subject": "characters.cleber",
+        "images": [],
+        "notes": []
+      }
+    },
+    {
+      "id": "cleber_outfit",
+      "texts": [
+        "references/realism_cinematic/outfit.txt"
+      ],
+      "input": {
+        "image": "outfit",
+        "style": "Realism",
+        "aspectRatio": "3:4",
+        "spicy": "basic",
+        "subject": "characters.cleber",
+        "images": [],
+        "notes": []
+      }
+    },
+    {
+      "id": "cleber_sheet",
+      "texts": [
+        "references/realism_cinematic/sheet.txt",
+        "references/sections/face-own-words.txt"
+      ],
+      "input": {
+        "image": "character sheet",
+        "style": "Realism",
+        "aspectRatio": "16:9",
+        "spicy": "basic",
+        "subject": "characters.cleber",
+        "images": [
+          {
+            "tag": "the first attached reference image",
+            "use": "the approved face"
+          },
+          {
+            "tag": "the second attached reference image",
+            "use": "the outfit flat-lay"
+          }
+        ],
+        "face": "<the prompt you wrote for cleber_face, plus its notes>",
+        "notes": []
+      }
+    },
+    {
+      "id": "neusa_face",
+      "texts": [
+        "references/realism_cinematic/face.txt"
+      ],
+      "input": {
+        "image": "face",
+        "style": "Realism",
+        "aspectRatio": "3:4",
+        "spicy": "basic",
+        "subject": "characters.neusa",
+        "images": [],
+        "notes": []
+      }
+    },
+    {
+      "id": "neusa_outfit",
+      "texts": [
+        "references/realism_cinematic/outfit.txt"
+      ],
+      "input": {
+        "image": "outfit",
+        "style": "Realism",
+        "aspectRatio": "3:4",
+        "spicy": "basic",
+        "subject": "characters.neusa",
+        "images": [],
+        "notes": []
+      }
+    },
+    {
+      "id": "neusa_sheet",
+      "texts": [
+        "references/realism_cinematic/sheet.txt",
+        "references/sections/face-own-words.txt"
+      ],
+      "input": {
+        "image": "character sheet",
+        "style": "Realism",
+        "aspectRatio": "16:9",
+        "spicy": "basic",
+        "subject": "characters.neusa",
+        "images": [
+          {
+            "tag": "the first attached reference image",
+            "use": "the approved face"
+          },
+          {
+            "tag": "the second attached reference image",
+            "use": "the outfit flat-lay"
+          }
+        ],
+        "face": "<the prompt you wrote for neusa_face, plus its notes>",
+        "notes": []
+      }
+    },
+    {
+      "id": "tiago_face",
+      "texts": [
+        "references/realism_cinematic/face.txt"
+      ],
+      "input": {
+        "image": "face",
+        "style": "Realism",
+        "aspectRatio": "3:4",
+        "spicy": "basic",
+        "subject": "characters.tiago",
+        "images": [],
+        "notes": []
+      }
+    },
+    {
+      "id": "tiago_outfit",
+      "texts": [
+        "references/realism_cinematic/outfit.txt"
+      ],
+      "input": {
+        "image": "outfit",
+        "style": "Realism",
+        "aspectRatio": "3:4",
+        "spicy": "basic",
+        "subject": "characters.tiago",
+        "images": [],
+        "notes": []
+      }
+    },
+    {
+      "id": "tiago_sheet",
+      "texts": [
+        "references/realism_cinematic/sheet.txt",
+        "references/sections/face-own-words.txt"
+      ],
+      "input": {
+        "image": "character sheet",
+        "style": "Realism",
+        "aspectRatio": "16:9",
+        "spicy": "basic",
+        "subject": "characters.tiago",
+        "images": [
+          {
+            "tag": "the first attached reference image",
+            "use": "the approved face"
+          },
+          {
+            "tag": "the second attached reference image",
+            "use": "the outfit flat-lay"
+          }
+        ],
+        "face": "<the prompt you wrote for tiago_face, plus its notes>",
+        "notes": []
+      }
+    },
+    {
+      "id": "kelly_face",
+      "texts": [
+        "references/realism_cinematic/face.txt"
+      ],
+      "input": {
+        "image": "face",
+        "style": "Realism",
+        "aspectRatio": "3:4",
+        "spicy": "basic",
+        "subject": "characters.kelly",
+        "images": [],
+        "notes": []
+      }
+    },
+    {
+      "id": "kelly_outfit",
+      "texts": [
+        "references/realism_cinematic/outfit.txt"
+      ],
+      "input": {
+        "image": "outfit",
+        "style": "Realism",
+        "aspectRatio": "3:4",
+        "spicy": "basic",
+        "subject": "characters.kelly",
+        "images": [],
+        "notes": []
+      }
+    },
+    {
+      "id": "kelly_sheet",
+      "texts": [
+        "references/realism_cinematic/sheet.txt",
+        "references/sections/face-own-words.txt"
+      ],
+      "input": {
+        "image": "character sheet",
+        "style": "Realism",
+        "aspectRatio": "16:9",
+        "spicy": "basic",
+        "subject": "characters.kelly",
+        "images": [
+          {
+            "tag": "the first attached reference image",
+            "use": "the approved face"
+          },
+          {
+            "tag": "the second attached reference image",
+            "use": "the outfit flat-lay"
+          }
+        ],
+        "face": "<the prompt you wrote for kelly_face, plus its notes>",
+        "notes": []
+      }
+    }
+  ]
+}

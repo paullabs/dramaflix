@@ -1,0 +1,627 @@
+{
+ "corredor": {
+  "id": "corredor",
+  "serie": "A",
+  "tipo": "locacoes",
+  "job": "ee3b5aa9-9d1e-4ad9-8efc-2ccb14debd71",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_055550_ee3b5aa9-9d1e-4ad9-8efc-2ccb14debd71.png",
+  "path": "historias/ganhei-na-mega-sena/assets/locacoes/corredor.png"
+ },
+ "laje": {
+  "id": "laje",
+  "serie": "A",
+  "tipo": "locacoes",
+  "job": "9f9ab26f-0de3-485d-9e61-9648d221320f",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_055549_9f9ab26f-0de3-485d-9e61-9648d221320f.png",
+  "path": "historias/ganhei-na-mega-sena/assets/locacoes/laje.png"
+ },
+ "bilhete": {
+  "id": "bilhete",
+  "serie": "A",
+  "tipo": "objetos",
+  "job": "4a34fcfd-6619-4934-8c59-80f9b2bdcbd5",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_055551_4a34fcfd-6619-4934-8c59-80f9b2bdcbd5.png",
+  "path": "historias/ganhei-na-mega-sena/assets/objetos/bilhete.png"
+ },
+ "panela": {
+  "id": "panela",
+  "serie": "A",
+  "tipo": "objetos",
+  "job": "eb8bac32-f78e-4d4b-97e6-721c90c814cc",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_055551_eb8bac32-f78e-4d4b-97e6-721c90c814cc.png",
+  "path": "historias/ganhei-na-mega-sena/assets/objetos/panela.png"
+ },
+ "lata": {
+  "id": "lata",
+  "serie": "A",
+  "tipo": "objetos",
+  "job": "cc735b0c-e5b4-421e-90d2-0dd54d238d84",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_055550_cc735b0c-e5b4-421e-90d2-0dd54d238d84.png",
+  "path": "historias/ganhei-na-mega-sena/assets/objetos/lata.png"
+ },
+ "caneca": {
+  "id": "caneca",
+  "serie": "A",
+  "tipo": "objetos",
+  "job": "7641e7ad-0455-46bf-a301-2b7d1c3b4c46",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_055550_7641e7ad-0455-46bf-a301-2b7d1c3b4c46.png",
+  "path": "historias/ganhei-na-mega-sena/assets/objetos/caneca.png"
+ },
+ "papeis_divorcio": {
+  "id": "papeis_divorcio",
+  "serie": "A",
+  "tipo": "objetos",
+  "job": "0b161d3c-f6ed-4e96-a9cb-bb0e35fc891d",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_055551_0b161d3c-f6ed-4e96-a9cb-bb0e35fc891d.png",
+  "path": "historias/ganhei-na-mega-sena/assets/objetos/papeis_divorcio.png"
+ },
+ "jardim_mansao": {
+  "id": "jardim_mansao",
+  "serie": "B",
+  "tipo": "locacoes",
+  "job": "4b61ce95-9193-405d-ad49-c0907b17d32a",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_055550_4b61ce95-9193-405d-ad49-c0907b17d32a.png",
+  "path": "historias/casei-com-o-mendigo/assets/locacoes/jardim_mansao.png"
+ },
+ "cleber_face": {
+  "id": "cleber_face",
+  "serie": "A",
+  "tipo": "personagens",
+  "job": "72703d2c-a133-480f-a8a3-7ecbf1708d50",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_055652_72703d2c-a133-480f-a8a3-7ecbf1708d50.png",
+  "path": "historias/ganhei-na-mega-sena/assets/personagens/cleber_face.png"
+ },
+ "neusa_face": {
+  "id": "neusa_face",
+  "serie": "A",
+  "tipo": "personagens",
+  "job": "782ad7aa-0bd7-4433-b7ed-b125e817b8b1",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_055652_782ad7aa-0bd7-4433-b7ed-b125e817b8b1.png",
+  "path": "historias/ganhei-na-mega-sena/assets/personagens/neusa_face.png"
+ },
+ "tiago_face": {
+  "id": "tiago_face",
+  "serie": "A",
+  "tipo": "personagens",
+  "job": "f7022e4a-badd-4cdb-952c-1cba6ce33763",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_055654_f7022e4a-badd-4cdb-952c-1cba6ce33763.png",
+  "path": "historias/ganhei-na-mega-sena/assets/personagens/tiago_face.png"
+ },
+ "kelly_face": {
+  "id": "kelly_face",
+  "serie": "A",
+  "tipo": "personagens",
+  "job": "16749606-1ef5-4c9f-a8ed-f1504120c0bf",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_055653_16749606-1ef5-4c9f-a8ed-f1504120c0bf.png",
+  "path": "historias/ganhei-na-mega-sena/assets/personagens/kelly_face.png"
+ },
+ "henrique_face": {
+  "id": "henrique_face",
+  "serie": "B",
+  "tipo": "personagens",
+  "job": "3e11c497-9cb1-472a-8a5d-621f526807bc",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_055653_3e11c497-9cb1-472a-8a5d-621f526807bc.png",
+  "path": "historias/casei-com-o-mendigo/assets/personagens/henrique_face.png"
+ },
+ "augusto_face": {
+  "id": "augusto_face",
+  "serie": "B",
+  "tipo": "personagens",
+  "job": "f2dfac0b-5ba7-42c0-94fb-1ace35b7bd8d",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_055653_f2dfac0b-5ba7-42c0-94fb-1ace35b7bd8d.png",
+  "path": "historias/casei-com-o-mendigo/assets/personagens/augusto_face.png"
+ },
+ "celeste_face": {
+  "id": "celeste_face",
+  "serie": "B",
+  "tipo": "personagens",
+  "job": "c05d99f6-a483-4626-befa-ce8792bfb2b4",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_055653_c05d99f6-a483-4626-befa-ce8792bfb2b4.png",
+  "path": "historias/casei-com-o-mendigo/assets/personagens/celeste_face.png"
+ },
+ "teo_face_edit": {
+  "id": "teo_face_edit",
+  "serie": "B",
+  "tipo": "personagens",
+  "job": "ae56676c-bd82-4a7d-b2a5-06e2c0d3415c",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_055653_ae56676c-bd82-4a7d-b2a5-06e2c0d3415c.png",
+  "path": "historias/casei-com-o-mendigo/assets/personagens/teo_face_edit.png",
+  "rejeitado": true
+ },
+ "cozinha_sala": {
+  "id": "cozinha_sala",
+  "serie": "A",
+  "tipo": "locacoes",
+  "job": "3e154490-071d-41d8-86cb-7e58c104b744",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_060147_3e154490-071d-41d8-86cb-7e58c104b744.png",
+  "path": "historias/ganhei-na-mega-sena/assets/locacoes/cozinha_sala.png"
+ },
+ "sala_ganhadores": {
+  "id": "sala_ganhadores",
+  "serie": "A",
+  "tipo": "locacoes",
+  "job": "4f9c6d0e-2821-4726-b307-e70542353b68",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_060147_4f9c6d0e-2821-4726-b307-e70542353b68.png",
+  "path": "historias/ganhei-na-mega-sena/assets/locacoes/sala_ganhadores.png"
+ },
+ "oculos": {
+  "id": "oculos",
+  "serie": "A",
+  "tipo": "objetos",
+  "job": "9e3cfc14-de77-4845-8538-b07320f947cf",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_060147_9e3cfc14-de77-4845-8538-b07320f947cf.png",
+  "path": "historias/ganhei-na-mega-sena/assets/objetos/oculos.png"
+ },
+ "praca": {
+  "id": "praca",
+  "serie": "B",
+  "tipo": "locacoes",
+  "job": "ac0ed526-5b6d-433f-bb94-3683a50a94a9",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_060147_ac0ed526-5b6d-433f-bb94-3683a50a94a9.png",
+  "path": "historias/casei-com-o-mendigo/assets/locacoes/praca.png"
+ },
+ "barbearia": {
+  "id": "barbearia",
+  "serie": "B",
+  "tipo": "locacoes",
+  "job": "64d87455-c6e8-446b-8e57-ab795f19f996",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_064238_64d87455-c6e8-446b-8e57-ab795f19f996.png",
+  "path": "historias/casei-com-o-mendigo/assets/locacoes/barbearia.png"
+ },
+ "sala_presidencia": {
+  "id": "sala_presidencia",
+  "serie": "B",
+  "tipo": "locacoes",
+  "job": "fd94d8b1-2c57-4725-a166-d56f7f4daaf9",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_060147_fd94d8b1-2c57-4725-a166-d56f7f4daaf9.png",
+  "path": "historias/casei-com-o-mendigo/assets/locacoes/sala_presidencia.png"
+ },
+ "relogio": {
+  "id": "relogio",
+  "serie": "B",
+  "tipo": "objetos",
+  "job": "0610aadc-9684-498a-9dee-19997588ea58",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_060146_0610aadc-9684-498a-9dee-19997588ea58.png",
+  "path": "historias/casei-com-o-mendigo/assets/objetos/relogio.png"
+ },
+ "anel_latinha": {
+  "id": "anel_latinha",
+  "serie": "B",
+  "tipo": "objetos",
+  "job": "b5534ba4-4151-4d71-a45a-8cdd691af3e9",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_060147_b5534ba4-4151-4d71-a45a-8cdd691af3e9.png",
+  "path": "historias/casei-com-o-mendigo/assets/objetos/anel_latinha.png"
+ },
+ "valter_face": {
+  "id": "valter_face",
+  "serie": "A",
+  "tipo": "personagens",
+  "job": "2ff7ef15-7d50-4bf1-954e-559f0b8c967f",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_060439_2ff7ef15-7d50-4bf1-954e-559f0b8c967f.png",
+  "path": "historias/ganhei-na-mega-sena/assets/personagens/valter_face.png"
+ },
+ "osvaldo_face": {
+  "id": "osvaldo_face",
+  "serie": "B",
+  "tipo": "personagens",
+  "job": "8b2f50ad-7dca-4dd8-b9a5-3c0580f2c660",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_060440_8b2f50ad-7dca-4dd8-b9a5-3c0580f2c660.png",
+  "path": "historias/casei-com-o-mendigo/assets/personagens/osvaldo_face.png"
+ },
+ "juiz_face": {
+  "id": "juiz_face",
+  "serie": "B",
+  "tipo": "personagens",
+  "job": "39fda60e-c424-43a1-ac9d-5d6e3f34a640",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_060440_39fda60e-c424-43a1-ac9d-5d6e3f34a640.png",
+  "path": "historias/casei-com-o-mendigo/assets/personagens/juiz_face.png"
+ },
+ "barbeiro_face": {
+  "id": "barbeiro_face",
+  "serie": "B",
+  "tipo": "personagens",
+  "job": "93f08127-19fb-4fc4-8a5d-086aa07e3108",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_060440_93f08127-19fb-4fc4-8a5d-086aa07e3108.png",
+  "path": "historias/casei-com-o-mendigo/assets/personagens/barbeiro_face.png"
+ },
+ "cleber_outfit": {
+  "id": "cleber_outfit",
+  "serie": "A",
+  "tipo": "personagens",
+  "job": "795eb36a-c8e3-4450-9f1d-9ea56808bb98",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_060736_795eb36a-c8e3-4450-9f1d-9ea56808bb98.png",
+  "path": "historias/ganhei-na-mega-sena/assets/personagens/cleber_outfit.png"
+ },
+ "neusa_outfit": {
+  "id": "neusa_outfit",
+  "serie": "A",
+  "tipo": "personagens",
+  "job": "07c53844-ea7b-474f-8773-2ec2334dcbfa",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_060736_07c53844-ea7b-474f-8773-2ec2334dcbfa.png",
+  "path": "historias/ganhei-na-mega-sena/assets/personagens/neusa_outfit.png"
+ },
+ "tiago_outfit": {
+  "id": "tiago_outfit",
+  "serie": "A",
+  "tipo": "personagens",
+  "job": "ec576799-eef6-463a-b163-f0e3d7fe2aad",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_060736_ec576799-eef6-463a-b163-f0e3d7fe2aad.png",
+  "path": "historias/ganhei-na-mega-sena/assets/personagens/tiago_outfit.png"
+ },
+ "kelly_outfit": {
+  "id": "kelly_outfit",
+  "serie": "A",
+  "tipo": "personagens",
+  "job": "3dde01b1-11b5-4c9c-bf8c-afa41a0264bd",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_060737_3dde01b1-11b5-4c9c-bf8c-afa41a0264bd.png",
+  "path": "historias/ganhei-na-mega-sena/assets/personagens/kelly_outfit.png"
+ },
+ "henrique_outfit": {
+  "id": "henrique_outfit",
+  "serie": "B",
+  "tipo": "personagens",
+  "job": "48f35f29-a107-42fb-b355-0aac49c7bd33",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_060736_48f35f29-a107-42fb-b355-0aac49c7bd33.png",
+  "path": "historias/casei-com-o-mendigo/assets/personagens/henrique_outfit.png"
+ },
+ "augusto_outfit": {
+  "id": "augusto_outfit",
+  "serie": "B",
+  "tipo": "personagens",
+  "job": "87aaee98-6e58-47f0-9e28-0f1fc3cf1e14",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_060737_87aaee98-6e58-47f0-9e28-0f1fc3cf1e14.png",
+  "path": "historias/casei-com-o-mendigo/assets/personagens/augusto_outfit.png"
+ },
+ "celeste_outfit": {
+  "id": "celeste_outfit",
+  "serie": "B",
+  "tipo": "personagens",
+  "job": "3fde94e1-5201-47f9-b1ea-29fb4cbc51bb",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_060736_3fde94e1-5201-47f9-b1ea-29fb4cbc51bb.png",
+  "path": "historias/casei-com-o-mendigo/assets/personagens/celeste_outfit.png"
+ },
+ "cleber_sheet": {
+  "id": "cleber_sheet",
+  "serie": "A",
+  "tipo": "personagens",
+  "job": "49a7e470-4ac0-414f-a29e-9429830ae632",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_063514_49a7e470-4ac0-414f-a29e-9429830ae632.png",
+  "path": "historias/ganhei-na-mega-sena/assets/personagens/cleber_sheet.png"
+ },
+ "neusa_sheet": {
+  "id": "neusa_sheet",
+  "serie": "A",
+  "tipo": "personagens",
+  "job": "7c0a36ac-d5ba-453a-a42e-ec212802f467",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_063516_7c0a36ac-d5ba-453a-a42e-ec212802f467.png",
+  "path": "historias/ganhei-na-mega-sena/assets/personagens/neusa_sheet.png"
+ },
+ "tiago_sheet": {
+  "id": "tiago_sheet",
+  "serie": "A",
+  "tipo": "personagens",
+  "job": "ee078ad2-f093-406e-822f-2ca01b537824",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_063716_ee078ad2-f093-406e-822f-2ca01b537824.png",
+  "path": "historias/ganhei-na-mega-sena/assets/personagens/tiago_sheet.png"
+ },
+ "kelly_sheet": {
+  "id": "kelly_sheet",
+  "serie": "A",
+  "tipo": "personagens",
+  "job": "3f7bfe1d-4894-4f8c-8f1f-8f5108064f99",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_063515_3f7bfe1d-4894-4f8c-8f1f-8f5108064f99.png",
+  "path": "historias/ganhei-na-mega-sena/assets/personagens/kelly_sheet.png"
+ },
+ "henrique_sheet": {
+  "id": "henrique_sheet",
+  "serie": "B",
+  "tipo": "personagens",
+  "job": "e6035ac4-f169-4a1d-b59c-793b833585ef",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_063515_e6035ac4-f169-4a1d-b59c-793b833585ef.png",
+  "path": "historias/casei-com-o-mendigo/assets/personagens/henrique_sheet.png"
+ },
+ "augusto_sheet": {
+  "id": "augusto_sheet",
+  "serie": "B",
+  "tipo": "personagens",
+  "job": "6cf6c8ff-caf9-4155-a6ba-082c28de4086",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_063514_6cf6c8ff-caf9-4155-a6ba-082c28de4086.png",
+  "path": "historias/casei-com-o-mendigo/assets/personagens/augusto_sheet.png"
+ },
+ "celeste_sheet": {
+  "id": "celeste_sheet",
+  "serie": "B",
+  "tipo": "personagens",
+  "job": "4e182f61-94ba-48bb-ac07-629d0c7ce089",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_063832_4e182f61-94ba-48bb-ac07-629d0c7ce089.png",
+  "path": "historias/casei-com-o-mendigo/assets/personagens/celeste_sheet.png"
+ },
+ "dani_sheet": {
+  "id": "dani_sheet",
+  "serie": "A",
+  "tipo": "personagens",
+  "job": "b9bbfee1-c5af-4a6a-86ee-3e207287db9f",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_063515_b9bbfee1-c5af-4a6a-86ee-3e207287db9f.png",
+  "path": "historias/ganhei-na-mega-sena/assets/personagens/dani_sheet.png"
+ },
+ "laura_sheet": {
+  "id": "laura_sheet",
+  "serie": "B",
+  "tipo": "personagens",
+  "job": "d2f8f94e-a36e-4d51-8d21-908c10eef79c",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_063515_d2f8f94e-a36e-4d51-8d21-908c10eef79c.png",
+  "path": "historias/casei-com-o-mendigo/assets/personagens/laura_sheet.png"
+ },
+ "teo_sheet": {
+  "id": "teo_sheet",
+  "serie": "B",
+  "tipo": "personagens",
+  "job": "85a5cd7b-091e-42af-9677-f39f3b805ad0",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_063514_85a5cd7b-091e-42af-9677-f39f3b805ad0.png",
+  "path": "historias/casei-com-o-mendigo/assets/personagens/teo_sheet.png"
+ },
+ "teo_face_edit2": {
+  "id": "teo_face_edit2",
+  "serie": "B",
+  "tipo": "personagens",
+  "job": "9c5d6f8d-cfd9-4e8c-aa03-fe2c62ba722d",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_061952_9c5d6f8d-cfd9-4e8c-aa03-fe2c62ba722d.png",
+  "path": "historias/casei-com-o-mendigo/assets/personagens/teo_face_edit2.png"
+ },
+ "valter_outfit": {
+  "id": "valter_outfit",
+  "serie": "A",
+  "tipo": "personagens",
+  "job": "226bfa98-ab30-47e1-8198-f4f31a49f442",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_061952_226bfa98-ab30-47e1-8198-f4f31a49f442.png",
+  "path": "historias/ganhei-na-mega-sena/assets/personagens/valter_outfit.png"
+ },
+ "osvaldo_outfit": {
+  "id": "osvaldo_outfit",
+  "serie": "B",
+  "tipo": "personagens",
+  "job": "73e12438-a71e-4853-a6bf-d6ae8e67b39e",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_062048_73e12438-a71e-4853-a6bf-d6ae8e67b39e.png",
+  "path": "historias/casei-com-o-mendigo/assets/personagens/osvaldo_outfit.png"
+ },
+ "juiz_outfit": {
+  "id": "juiz_outfit",
+  "serie": "B",
+  "tipo": "personagens",
+  "job": "6dab44a2-797d-4bec-a8eb-d53d951c882c",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_062048_6dab44a2-797d-4bec-a8eb-d53d951c882c.png",
+  "path": "historias/casei-com-o-mendigo/assets/personagens/juiz_outfit.png"
+ },
+ "barbeiro_outfit": {
+  "id": "barbeiro_outfit",
+  "serie": "B",
+  "tipo": "personagens",
+  "job": "7cf2d3db-c84c-47d5-8da3-7640d3c9fb40",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_062048_7cf2d3db-c84c-47d5-8da3-7640d3c9fb40.png",
+  "path": "historias/casei-com-o-mendigo/assets/personagens/barbeiro_outfit.png"
+ },
+ "rosa_nota": {
+  "id": "rosa_nota",
+  "serie": "B",
+  "tipo": "objetos",
+  "job": "feb2157a-48a5-4d8d-add0-4600df7106fa",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_061305_feb2157a-48a5-4d8d-add0-4600df7106fa.png",
+  "path": "historias/casei-com-o-mendigo/assets/objetos/rosa_nota.png"
+ },
+ "livro_registro": {
+  "id": "livro_registro",
+  "serie": "B",
+  "tipo": "objetos",
+  "job": "c3ba948e-683c-4354-8d34-141d3bbf8c63",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_061305_c3ba948e-683c-4354-8d34-141d3bbf8c63.png",
+  "path": "historias/casei-com-o-mendigo/assets/objetos/livro_registro.png"
+ },
+ "notificacao_divida": {
+  "id": "notificacao_divida",
+  "serie": "B",
+  "tipo": "objetos",
+  "job": "4923bd7e-8a1c-4129-86d2-b3e2afdfb04c",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_061305_4923bd7e-8a1c-4129-86d2-b3e2afdfb04c.png",
+  "path": "historias/casei-com-o-mendigo/assets/objetos/notificacao_divida.png"
+ },
+ "cartao_preto": {
+  "id": "cartao_preto",
+  "serie": "B",
+  "tipo": "objetos",
+  "job": "1cc9c83e-9a4e-44ee-8ea9-b51bd02aaa9e",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_061305_1cc9c83e-9a4e-44ee-8ea9-b51bd02aaa9e.png",
+  "path": "historias/casei-com-o-mendigo/assets/objetos/cartao_preto.png"
+ },
+ "valter_sheet": {
+  "id": "valter_sheet",
+  "serie": "A",
+  "tipo": "personagens",
+  "job": "558d2b4a-c0e2-4770-9c9d-1f67af2d4385",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_063832_558d2b4a-c0e2-4770-9c9d-1f67af2d4385.png",
+  "path": "historias/ganhei-na-mega-sena/assets/personagens/valter_sheet.png"
+ },
+ "osvaldo_sheet": {
+  "id": "osvaldo_sheet",
+  "serie": "B",
+  "tipo": "personagens",
+  "job": "1467448e-e8e5-497b-9234-ea6822ed7795",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_063830_1467448e-e8e5-497b-9234-ea6822ed7795.png",
+  "path": "historias/casei-com-o-mendigo/assets/personagens/osvaldo_sheet.png"
+ },
+ "juiz_sheet": {
+  "id": "juiz_sheet",
+  "serie": "B",
+  "tipo": "personagens",
+  "job": "0df902fc-62b9-4dd2-95fa-4100a102459a",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_063831_0df902fc-62b9-4dd2-95fa-4100a102459a.png",
+  "path": "historias/casei-com-o-mendigo/assets/personagens/juiz_sheet.png"
+ },
+ "barbeiro_sheet": {
+  "id": "barbeiro_sheet",
+  "serie": "B",
+  "tipo": "personagens",
+  "job": "e51bb7ac-2980-4ac1-94fc-450f701143fc",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_063832_e51bb7ac-2980-4ac1-94fc-450f701143fc.png",
+  "path": "historias/casei-com-o-mendigo/assets/personagens/barbeiro_sheet.png"
+ },
+ "cleber_sheet_v1": {
+  "id": "cleber_sheet",
+  "serie": "A",
+  "tipo": "personagens",
+  "job": "2d755bb6-9938-4ff2-893a-75fed2dcba96",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_062235_2d755bb6-9938-4ff2-893a-75fed2dcba96.png",
+  "path": "historias/ganhei-na-mega-sena/assets/personagens/cleber_sheet_v1.png",
+  "rejeitado": true
+ },
+ "neusa_sheet_v1": {
+  "id": "neusa_sheet",
+  "serie": "A",
+  "tipo": "personagens",
+  "job": "75c435df-b882-4e8a-afa0-930ece530178",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_061952_75c435df-b882-4e8a-afa0-930ece530178.png",
+  "path": "historias/ganhei-na-mega-sena/assets/personagens/neusa_sheet_v1.png",
+  "rejeitado": true
+ },
+ "kelly_sheet_v1": {
+  "id": "kelly_sheet",
+  "serie": "A",
+  "tipo": "personagens",
+  "job": "eca822e7-aa19-4d29-b07b-8fb63ef9c8de",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_062235_eca822e7-aa19-4d29-b07b-8fb63ef9c8de.png",
+  "path": "historias/ganhei-na-mega-sena/assets/personagens/kelly_sheet_v1.png",
+  "rejeitado": true
+ },
+ "henrique_sheet_v1": {
+  "id": "henrique_sheet",
+  "serie": "B",
+  "tipo": "personagens",
+  "job": "c9307f29-3c9e-489a-9d10-48b744672d06",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_061952_c9307f29-3c9e-489a-9d10-48b744672d06.png",
+  "path": "historias/casei-com-o-mendigo/assets/personagens/henrique_sheet_v1.png",
+  "rejeitado": true
+ },
+ "augusto_sheet_v1": {
+  "id": "augusto_sheet",
+  "serie": "B",
+  "tipo": "personagens",
+  "job": "308e9a55-a8d2-445c-82e5-cb0a7fb1c3f0",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_061951_308e9a55-a8d2-445c-82e5-cb0a7fb1c3f0.png",
+  "path": "historias/casei-com-o-mendigo/assets/personagens/augusto_sheet_v1.png",
+  "rejeitado": true
+ },
+ "dani_sheet_v1": {
+  "id": "dani_sheet",
+  "serie": "A",
+  "tipo": "personagens",
+  "job": "19d8bf00-271b-45ef-b9d9-b850962efd33",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_061953_19d8bf00-271b-45ef-b9d9-b850962efd33.png",
+  "path": "historias/ganhei-na-mega-sena/assets/personagens/dani_sheet_v1.png",
+  "rejeitado": true
+ },
+ "laura_sheet_v1": {
+  "id": "laura_sheet",
+  "serie": "B",
+  "tipo": "personagens",
+  "job": "6db452f1-0b42-44bb-909e-50a50d90eba2",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_062235_6db452f1-0b42-44bb-909e-50a50d90eba2.png",
+  "path": "historias/casei-com-o-mendigo/assets/personagens/laura_sheet_v1.png",
+  "rejeitado": true
+ },
+ "teo_sheet_v1": {
+  "id": "teo_sheet",
+  "serie": "B",
+  "tipo": "personagens",
+  "job": "d9233421-b96a-4006-8061-089ecae6aa5c",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_061953_d9233421-b96a-4006-8061-089ecae6aa5c.png",
+  "path": "historias/casei-com-o-mendigo/assets/personagens/teo_sheet_v1.png",
+  "rejeitado": true
+ },
+ "tiago_sheet_v1": {
+  "id": "tiago_sheet",
+  "serie": "A",
+  "tipo": "personagens",
+  "job": "742b4f92-6354-493a-9f87-93620f5ecd6d",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_061952_742b4f92-6354-493a-9f87-93620f5ecd6d.png",
+  "path": "historias/ganhei-na-mega-sena/assets/personagens/tiago_sheet_v1.png",
+  "rejeitado": true
+ },
+ "celeste_sheet_v1": {
+  "id": "celeste_sheet",
+  "serie": "B",
+  "tipo": "personagens",
+  "job": "8dcc4f5c-7660-4d2e-b186-a9ad7a54810a",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_062235_8dcc4f5c-7660-4d2e-b186-a9ad7a54810a.png",
+  "path": "historias/casei-com-o-mendigo/assets/personagens/celeste_sheet_v1.png",
+  "rejeitado": true
+ },
+ "valter_sheet_v1": {
+  "id": "valter_sheet",
+  "serie": "A",
+  "tipo": "personagens",
+  "job": "bc188387-81a8-4ad9-9426-350c9f3c37f8",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_063027_bc188387-81a8-4ad9-9426-350c9f3c37f8.png",
+  "path": "historias/ganhei-na-mega-sena/assets/personagens/valter_sheet_v1.png",
+  "rejeitado": true
+ },
+ "osvaldo_sheet_v1": {
+  "id": "osvaldo_sheet",
+  "serie": "B",
+  "tipo": "personagens",
+  "job": "4e580139-2789-469e-ab31-bd8bee9213ba",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_063028_4e580139-2789-469e-ab31-bd8bee9213ba.png",
+  "path": "historias/casei-com-o-mendigo/assets/personagens/osvaldo_sheet_v1.png",
+  "rejeitado": true
+ },
+ "juiz_sheet_v1": {
+  "id": "juiz_sheet",
+  "serie": "B",
+  "tipo": "personagens",
+  "job": "98182978-04eb-4614-8b1a-32d174c76de8",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_063027_98182978-04eb-4614-8b1a-32d174c76de8.png",
+  "path": "historias/casei-com-o-mendigo/assets/personagens/juiz_sheet_v1.png",
+  "rejeitado": true
+ },
+ "barbeiro_sheet_v1": {
+  "id": "barbeiro_sheet",
+  "serie": "B",
+  "tipo": "personagens",
+  "job": "e9d4eb35-20bd-47dd-8ee6-37091d98cc5d",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_063028_e9d4eb35-20bd-47dd-8ee6-37091d98cc5d.png",
+  "path": "historias/casei-com-o-mendigo/assets/personagens/barbeiro_sheet_v1.png",
+  "rejeitado": true
+ },
+ "dani_look_disfarce": {
+  "id": "dani_look_disfarce",
+  "serie": "A",
+  "tipo": "personagens",
+  "job": "3d8bb62b-2678-4183-a729-a7008f842b2e",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_064359_3d8bb62b-2678-4183-a729-a7008f842b2e.png",
+  "path": "historias/ganhei-na-mega-sena/assets/personagens/dani_look_disfarce.png"
+ },
+ "teo_look_presidente": {
+  "id": "teo_look_presidente",
+  "serie": "B",
+  "tipo": "personagens",
+  "job": "3f87a48c-8dc5-4845-b49b-40af58ceb4ab",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_063945_3f87a48c-8dc5-4845-b49b-40af58ceb4ab.png",
+  "path": "historias/casei-com-o-mendigo/assets/personagens/teo_look_presidente.png"
+ },
+ "barbearia_v1": {
+  "id": "barbearia",
+  "serie": "B",
+  "tipo": "locacoes",
+  "job": "f9a530c8-5946-45a9-8219-397c04479bde",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_060148_f9a530c8-5946-45a9-8219-397c04479bde.png",
+  "path": "historias/casei-com-o-mendigo/assets/locacoes/barbearia_v1.png",
+  "rejeitado": true
+ },
+ "dani_look_disfarce_v1": {
+  "id": "dani_look_disfarce",
+  "serie": "A",
+  "tipo": "personagens",
+  "job": "ee8c6332-fa2b-4255-87e0-d66ca8816f10",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38TWXBu8pzmWuuIKBAkHOiYlqzK/hf_20261119_063946_ee8c6332-fa2b-4255-87e0-d66ca8816f10.png",
+  "path": "historias/ganhei-na-mega-sena/assets/personagens/dani_look_disfarce_v1.png",
+  "rejeitado": true
+ }
+}
